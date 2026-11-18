@@ -9,7 +9,7 @@
 <!-- ================= PROFESSIONAL HD IMAGE BANNER ================= -->
 
 <img
-  src="./assets/developer-banner.png"
+  src="./assets/developer-banner.webp"
   width="100%"
   alt="Aniket Sahgal - Professional Developer Workspace"
 />

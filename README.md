@@ -14,12 +14,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/Sehgal1001"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aniket-sahgal-297a67276"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Sehgal1001?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Sehgal1001&label=PROFILE%20VIEWS&color=6C3BFF&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Sehgal1001?label=Followers&style=for-the-badge&color=0EA5E9"/>
 

@@ -6,6 +6,16 @@
 
 <div align="center">
 
+<!-- ================= PROFESSIONAL HD IMAGE BANNER ================= -->
+
+<img
+  src="./assets/developer-banner.png"
+  width="100%"
+  alt="Aniket Sahgal - Professional Developer Workspace"
+/>
+
+<br/><br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,25:171044,60:075985,100:070B18&height=260&section=header&text=ANIKET%20SAHGAL&fontSize=60&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20STUDENT&descSize=18&descColor=00E5FF&descAlignY=60&animation=twinkling" />
 
 <br/>

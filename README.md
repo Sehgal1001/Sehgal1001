@@ -1,24 +1,18 @@
 
 <!-- ====================================================== -->
-<!-- ANIKET SAHGAL | PREMIUM DEVELOPER PROFILE              -->
-<!-- NEON GLASS + PLAYING CARD PROJECT SHOWCASE             -->
+<!-- ANIKET SAHGAL | PREMIUM GITHUB PROFILE                 -->
+<!-- NEON GLASS + PLAYING CARD PROJECT DECK                 -->
 <!-- ====================================================== -->
 
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:25145B,70:075C78,100:080B18&height=250&section=header&text=ANIKET%20SAHGAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CS%20ENGINEER&descSize=17&descColor=00E5FF&descAlignY=61&animation=twinkling"
-    width="100%"
-    alt="Aniket Sahgal developer banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:25145B,70:075C78,100:080B18&height=250&section=header&text=ANIKET%20SAHGAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CS%20ENGINEER&descSize=17&descColor=00E5FF&descAlignY=61&animation=twinkling" width="100%" alt="Aniket Sahgal"/>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey!+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Developer;Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+MongoDB;Code.+Create.+Innovate.+Repeat."
-    alt="Animated developer introduction"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey!+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Developer;Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+MongoDB;Code.+Create.+Innovate.+Repeat." alt="Typing introduction"/>
 </p>
 
 <p align="center">
@@ -33,13 +27,13 @@
     <img src="https://img.shields.io/badge/LINKEDIN-18152C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Sehgal1001?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-18152C?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Projects"/>
+    <img src="https://img.shields.io/badge/MY_PROJECTS-18152C?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Projects"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sehgal1001&label=PROFILE+VISITORS&color=6C3BFF&style=for-the-badge" alt="Profile visitors"/>
-  <img src="https://img.shields.io/github/followers/Sehgal1001?label=Followers&style=for-the-badge&color=7657D5" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/Sehgal1001?label=Followers&style=for-the-badge&color=7657D5" alt="Followers"/>
 </p>
 
 ---
@@ -212,15 +206,16 @@ $ status
   <img
     src="./assets/project-deck.png"
     width="100%"
-    alt="Neon playing card project showcase: Weather App, Food Recipe App and Personal Portfolio"
+    alt="Aniket's neon playing card project showcase"
   />
 </p>
 
-<!-- PROJECT LINKS -->
+<!-- INDIVIDUAL PROJECT LINKS -->
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
+
+<td width="33%" align="center" valign="top">
 
 <h3>♠ WEATHER APP</h3>
 
@@ -230,9 +225,15 @@ $ status
 <img src="https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Weather demo"/>
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/Sehgal1001?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-18152C?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 <h3>♦ FOOD RECIPE</h3>
 
@@ -242,9 +243,15 @@ $ status
 <img src="https://img.shields.io/badge/LIVE_DEMO-A78BFA?style=for-the-badge&logo=githubpages&logoColor=white" alt="Recipe demo"/>
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/Sehgal1001?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-18152C?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 <h3>♣ PORTFOLIO</h3>
 
@@ -254,7 +261,14 @@ $ status
 <img src="https://img.shields.io/badge/EXPLORE-00D6A0?style=for-the-badge&logo=github&logoColor=black" alt="Portfolio repositories"/>
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/Sehgal1001?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-18152C?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </td>
+
 </tr>
 </table>
 
@@ -270,7 +284,7 @@ $ status
 
 ---
 
-<!-- ================= GITHUB STATISTICS ================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 <h2 align="center">✦ GITHUB PERFORMANCE</h2>
 
@@ -329,41 +343,72 @@ $ status
 
 ---
 
-<!-- ================= GITHUB TROPHIES ================= -->
+<!-- ================= LET'S CONNECT ================= -->
 
-<h2 align="center">✦ GITHUB ACHIEVEMENTS</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Sehgal1001&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"
-    width="95%"
-    alt="GitHub achievements"
-  />
-</p>
-
----
-
-<!-- ================= CONNECT ================= -->
-
-<h2 align="center">✦ LET'S CONNECT</h2>
+<h2 align="center">✦ LET'S CONNECT WITH ME</h2>
 
 <p align="center">
-  Have an idea? Let's connect, collaborate and build something awesome.
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8B5CF6,100:00D9FF&height=3&section=header" width="60%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sehgal1001">
-    <img src="https://img.shields.io/badge/GITHUB-LET'S_CONNECT-18152C?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aniket-sahgal-297a67276">
-    <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-18152C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
+  <b>Have an idea, an opportunity or an interesting project?</b>
+</p>
+
+<p align="center">
+  Let's connect, share ideas and build something extraordinary together.
+</p>
+
+<br/>
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<h1>🐙</h1>
+
+<h3>GITHUB</h3>
+
+<p>Explore my repositories and projects.</p>
+
+<a href="https://github.com/Sehgal1001">
+<img src="https://img.shields.io/badge/EXPLORE_GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore GitHub"/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<h1>💼</h1>
+
+<h3>LINKEDIN</h3>
+
+<p>Let's connect professionally and network.</p>
+
+<a href="https://www.linkedin.com/in/aniket-sahgal-297a67276">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_WORK-17152D?style=for-the-badge&labelColor=17152D"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sehgal1001?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-00D6A0?style=for-the-badge&logo=github&logoColor=black" alt="View projects"/>
   </a>
+</p>
+
+<p align="center">
+  <b>✦ BUILD • CONNECT • COLLABORATE ✦</b>
 </p>
 
 ---

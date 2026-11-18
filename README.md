@@ -82,47 +82,55 @@ I like working across the frontend and backend — from shaping a clean interfac
 <h2 align="center">⚡ TECH STACK & TOOLKIT</h2>
 
 <p align="center">
-<i>The technologies I use to design, build, and improve web applications.</i>
+<i>Technologies and tools I use to design, build, and improve web applications.</i>
 </p>
 
-<h3 align="center">01 · FRONTEND DEVELOPMENT</h3>
+<br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h3>01 · FRONTEND DEVELOPMENT</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+<h3>02 · BACKEND DEVELOPMENT</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+<h3>03 · DATABASES</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+<h3>04 · TOOLS & WORKFLOW</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<h3 align="center">02 · BACKEND DEVELOPMENT</h3>
+<br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</div>
-
-<h3 align="center">03 · DATABASES</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-
-<h3 align="center">04 · TOOLS & WORKFLOW</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:8B5CF6&height=2" width="55%"/>
 </div>
 
 ---

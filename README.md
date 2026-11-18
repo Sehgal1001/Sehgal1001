@@ -5,7 +5,7 @@
 
 <h1>Hi 👋, I'm Aniket Sahgal</h1>
 
-<h3>💻 Full Stack Developer | Computer Science Student</h3>
+<h3>💻 Full Stack Developer | Computer Science Engineer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=9B7BFF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Frontend+%26+Backend+Development;Learning+New+Technologies;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
+- 🎓 Computer Science Engineer
 - 💻 Passionate about Full Stack Web Development
 - 🚀 Building responsive and interactive web applications
 - 🌱 Currently improving my development and problem-solving skills

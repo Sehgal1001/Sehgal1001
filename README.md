@@ -1,389 +1,292 @@
 
-<!-- ========================================================= -->
-<!-- ANIKET SAHGAL | PREMIUM GLASSMORPHISM GITHUB PROFILE      -->
-<!-- ========================================================= -->
+<!-- ============== ANIKET SAHGAL | NEON GLASS PROFILE ============== -->
 
-<!-- HERO BANNER -->
+<!-- HERO -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,40:111C3A,75:29205A,100:071B2D&height=250&section=header&text=ANIKET%20SAHGAL&fontSize=55&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20COMPUTER%20SCIENCE%20ENGINEER&descSize=15&descColor=00E5FF&descAlignY=61&animation=fadeIn"
-    width="100%"
-    alt="Aniket Sahgal futuristic banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:25145B,70:075C78,100:080B18&height=250&section=header&text=ANIKET%20SAHGAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CS%20ENGINEER&descSize=17&descColor=00E5FF&descAlignY=61&animation=twinkling" width="100%"/>
 </p>
 
-<!-- ANIMATED INTRO -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;I'm+Aniket+Sahgal;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Ideas+Into+Digital+Experiences"
-    alt="Animated developer introduction"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Developer;I+Build+Modern+Web+Experiences;Code.+Create.+Innovate.+Repeat."/>
 </p>
 
-<!-- SOCIAL BUTTONS -->
+<p align="center">
+  <b>⚡ Turning ideas into interactive digital experiences.</b>
+</p>
+
 <p align="center">
   <a href="https://github.com/Sehgal1001">
-    <img src="https://img.shields.io/badge/GitHub-181B2A?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-18152C?style=for-the-badge&logo=github&logoColor=00E5FF"/>
   </a>
   <a href="https://www.linkedin.com/in/aniket-sahgal-297a67276">
-    <img src="https://img.shields.io/badge/LinkedIn-181B2A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-18152C?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
   </a>
   <a href="https://github.com/Sehgal1001?tab=repositories">
-    <img src="https://img.shields.io/badge/My_Projects-181B2A?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Projects"/>
+    <img src="https://img.shields.io/badge/PROJECTS-18152C?style=for-the-badge&logo=github&logoColor=B794FF"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sehgal1001&label=PROFILE%20VISITORS&color=00BFD6&style=flat-square" alt="Profile visitors"/>
-  <img src="https://img.shields.io/github/followers/Sehgal1001?label=Followers&style=flat-square&color=7657D5" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Sehgal1001&style=for-the-badge&color=6C3BFF&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
 <!-- ABOUT -->
-<h2 align="center">◈ ABOUT ME</h2>
+<h2 align="center">✦ THE DEVELOPER BEHIND THE CODE</h2>
 
-<table width="100%">
-<tr>
-<td width="65%" valign="middle">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:15102C,100:102A40&height=3&section=header" width="65%"/>
+</p>
 
-### Hello, I'm Aniket! 👋
+<h3 align="center">Hello, I'm Aniket! 👋</h3>
 
-I'm a **Full Stack Developer** and **Computer Science Engineer** passionate about building modern, responsive and interactive web applications.
+<p align="center">
+  A <b>Full Stack Developer</b> and <b>Computer Science Engineer</b>
+  passionate about building modern, responsive and interactive web applications.
+</p>
 
-I enjoy working across frontend and backend technologies, solving problems and transforming creative ideas into functional digital experiences.
+<p align="center">
+  I enjoy exploring frontend and backend technologies, solving problems,
+  and turning creative ideas into functional digital products.
+</p>
 
-My focus is on writing clean code, learning modern technologies and building projects that solve real-world problems.
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILD-00E5FF?style=flat-square&labelColor=15102C"/>
+  <img src="https://img.shields.io/badge/LEARN-9B75FF?style=flat-square&labelColor=15102C"/>
+  <img src="https://img.shields.io/badge/INNOVATE-00D6A0?style=flat-square&labelColor=15102C"/>
+</p>
 
-</td>
-<td width="35%" align="center" valign="middle">
+---
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js&theme=dark&perline=2" width="145" alt="My core technologies"/>
-
-**BUILD • CREATE • INNOVATE**
-
-</td>
-</tr>
-</table>
-
-<!-- DEVELOPER DASHBOARD -->
+<!-- DASHBOARD -->
 <h2 align="center">◈ DEVELOPER DASHBOARD</h2>
 
-<table width="100%">
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_ROLE-Full_Stack_Developer-17152D?style=for-the-badge&labelColor=17152D"/>
+  <img src="https://img.shields.io/badge/💻_DOMAIN-Web_Development-17152D?style=for-the-badge&labelColor=17152D"/>
+</p>
 
-**⚡ ROLE**
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_FRONTEND-React_•_JavaScript-17243A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚙️_BACKEND-Node_•_Express-17243A?style=for-the-badge"/>
+</p>
 
-Full Stack Developer
+<p align="center">
+  <img src="https://img.shields.io/badge/🗄️_DATABASE-MongoDB_•_MySQL-241B40?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛠️_TOOLS-Git_•_VS_Code_•_Postman-241B40?style=for-the-badge"/>
+</p>
 
-</td>
-<td align="center" width="50%">
+---
 
-**💻 DOMAIN**
+<!-- SKILLS -->
+<h2 align="center">✦ MY TECH ARSENAL</h2>
 
-Web Development
+<h3 align="center">01. Frontend</h3>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" height="65"/>
+</p>
 
-**🚀 FRONTEND**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
 
-React · JavaScript
+<h3 align="center">02. Backend</h3>
 
-</td>
-<td align="center" width="50%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="65"/>
+</p>
 
-**⚙️ BACKEND**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=black"/>
+</p>
 
-Node.js · Express.js
+<h3 align="center">03. Database</h3>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="65"/>
+</p>
 
-**🗄️ DATABASE**
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
-MongoDB · MySQL
+<h3 align="center">04. Development Tools</h3>
 
-</td>
-<td align="center" width="50%">
-
-**🛠️ DEVELOPMENT**
-
-Git · VS Code · Postman
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="65"/>
+</p>
 
 ---
 
 <!-- TERMINAL -->
-<h2 align="center">◈ DEVELOPER TERMINAL</h2>
+<h2 align="center">✦ ACCESS DEVELOPER TERMINAL</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TERMINAL-ONLINE-00E5FF?style=flat-square&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/USER-ANIKET-9B7AFF?style=flat-square&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D6A0?style=for-the-badge&labelColor=10172B"/>
+  <img src="https://img.shields.io/badge/USER-ANIKET-9B75FF?style=for-the-badge&labelColor=10172B"/>
 </p>
 
 ```bash
-╭──[ aniket@developer ]──[ ~/digital-universe ]
-│
-├── $ whoami
-│   Aniket Sahgal
-│
-├── $ developer --role
-│   Full Stack Developer | CS Engineer
-│
-├── $ tech --frontend
-│   HTML, CSS, JavaScript, React
-│
-├── $ tech --backend
-│   Node.js, Express.js
-│
-├── $ tech --database
-│   MongoDB, MySQL
-│
-├── $ tools --list
-│   Git, GitHub, VS Code, Postman
-│
-├── $ mission
-│   Build. Learn. Create. Innovate.
-│
-╰── $ echo "Welcome to my GitHub!"
+╭────────────────────────────────────────╮
+│       ANIKET'S DEVELOPER TERMINAL      │
+╰────────────────────────────────────────╯
 
-    >>> Let's build something amazing! 🚀
+$ whoami
+> Aniket Sahgal
+
+$ developer --role
+> Full Stack Developer | CS Engineer
+
+$ frontend --skills
+> HTML | CSS | JavaScript | React
+
+$ backend --skills
+> Node.js | Express.js
+
+$ database --skills
+> MongoDB | MySQL
+
+$ tools --list
+> Git | GitHub | VS Code | Postman
+
+$ mission
+> Build beautiful and useful applications.
+
+$ status
+> Always Learning. Always Building. 🚀
 ```
 
 ---
 
-<!-- TECH STACK -->
-<h2 align="center">◈ TECHNOLOGY STACK</h2>
-
-<h3 align="center">01 / FRONTEND DEVELOPMENT</h3>
+<!-- PROJECTS -->
+<h2 align="center">✦ SELECTED PROJECTS</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML CSS JavaScript React"/>
+  <i>Ideas transformed into working web applications.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0D1425?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1425?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1425?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-0D1425?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-<h3 align="center">02 / BACKEND DEVELOPMENT</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
+  <img src="https://img.shields.io/badge/01-WEATHER%20FORECAST-111B32?style=for-the-badge&logo=cloudflare&logoColor=00E5FF"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0D1425?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express.js-0D1425?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-</p>
-
-<h3 align="center">03 / DATABASE</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB and MySQL"/>
+  <b>🌦️ Weather Forecast App</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-0D1425?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/MySQL-0D1425?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-</p>
-
-<h3 align="center">04 / TOOLS & WORKFLOW</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git GitHub VS Code Postman"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0D1425?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1425?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/VS_Code-0D1425?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Postman-0D1425?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-</p>
-
----
-
-<!-- PROJECT SHOWCASE -->
-<h2 align="center">◈ FEATURED PROJECTS</h2>
-
-<p align="center">
-  <i>Selected web development projects and digital experiments.</i>
-</p>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🌦️ WEATHER FORECAST</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WEB_APPLICATION-00C9E8?style=flat-square&labelColor=10182B"/>
-</p>
-
-<p align="center">
-  A weather forecasting web application with a dedicated live deployment.
+  A weather forecasting web application with a live deployment.
 </p>
 
 <p align="center">
   <a href="https://weather-forecast-omega-dusky.vercel.app/">
-    <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00C9E8?style=for-the-badge&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sehgal1001?tab=repositories">
-    View source repositories →
-  </a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🍽️ FOOD RECIPE APP</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WEB_APPLICATION-9675F5?style=flat-square&labelColor=10182B"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:18142E,100:111E35&height=2&section=header" width="70%"/>
 </p>
 
 <p align="center">
-  A food recipe web application designed to explore recipes online.
+  <img src="https://img.shields.io/badge/02-FOOD%20RECIPE%20APP-211637?style=for-the-badge&logo=codepen&logoColor=B794FF"/>
+</p>
+
+<p align="center">
+  <b>🍽️ Food Recipe App</b>
+</p>
+
+<p align="center">
+  A web application for exploring food recipes.
 </p>
 
 <p align="center">
   <a href="https://sehgal1001.github.io/Food_Recipie/">
-    <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-9675F5?style=for-the-badge&logo=githubpages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-9B75FF?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:18142E,100:111E35&height=2&section=header" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/03-PERSONAL%20PORTFOLIO-111B32?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</p>
+
+<p align="center">
+  <b>💼 Personal Portfolio Website</b>
+</p>
+
+<p align="center">
+  A personal portfolio project showcasing my developer identity and work.
 </p>
 
 <p align="center">
   <a href="https://github.com/Sehgal1001?tab=repositories">
-    View source repositories →
+    <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-
-<h3>💼 PERSONAL PORTFOLIO WEBSITE</h3>
-
-<p>
-  A personal portfolio project showcasing my developer identity and work.
-</p>
-
-<a href="https://github.com/Sehgal1001?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO_PROJECT-00C9E8?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<p><sub>Explore my repositories to find the portfolio source code.</sub></p>
-
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- GITHUB STATISTICS -->
-<h2 align="center">◈ GITHUB ANALYTICS</h2>
+<!-- STATS -->
+<h2 align="center">✦ GITHUB PERFORMANCE</h2>
 
 <p align="center">
-  <i>Live repository and coding activity insights.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sehgal1001&show_icons=true&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF&icon_color=9B75FF&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF" width="41%"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sehgal1001&show_icons=true&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=DCE6F1&icon_color=A78BFA&rank_icon=github"
-    width="49%"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=DCE6F1"
-    width="41%"
-    alt="Most used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Sehgal1001&theme=transparent&hide_border=true&background=0D1425&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=8B9BB4"
-    width="75%"
-    alt="GitHub contribution streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF" width="75%"/>
 </p>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-<h2 align="center">◈ CONTRIBUTION ACTIVITY</h2>
+<!-- ACTIVITY -->
+<h2 align="center">✦ CONTRIBUTION UNIVERSE</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9675F5&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
+
+<h3 align="center">🐍 THE CONTRIBUTION SNAKE</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 </p>
 
 ---
 
-<!-- GITHUB TROPHIES -->
-<h2 align="center">◈ GITHUB ACHIEVEMENTS</h2>
+<!-- TROPHIES -->
+<h2 align="center">✦ GITHUB TROPHIES</h2>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Sehgal1001&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4"
-    width="100%"
-    alt="GitHub profile trophies"
-  />
-</p>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-<h2 align="center">◈ CONTRIBUTION SNAKE</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="Animated contribution snake"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sehgal1001&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%"/>
 </p>
 
 ---
 
 <!-- CONNECT -->
-<h2 align="center">◈ LET'S CONNECT</h2>
+<h2 align="center">✦ LET'S CONNECT</h2>
 
 <p align="center">
-  I'm always interested in connecting with developers, exchanging ideas,
-  learning new technologies and exploring exciting projects.
+  <b>Have an idea? Let's connect, collaborate and build something awesome.</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sehgal1001">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+    <img src="https://img.shields.io/badge/GITHUB-LET'S_CONNECT-18152C?style=for-the-badge&logo=github&logoColor=00E5FF"/>
   </a>
   <a href="https://www.linkedin.com/in/aniket-sahgal-297a67276">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sehgal1001?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-18152C?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
   </a>
 </p>
 
@@ -391,19 +294,15 @@ Git · VS Code · Postman
 
 <!-- FOOTER -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,45:18244A,100:30205A&height=140&section=footer&animation=fadeIn"
-    width="100%"
-    alt="Futuristic profile footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,40:25145B,75:075C78,100:080B18&height=150&section=footer&animation=twinkling" width="100%"/>
 </p>
 
-<h3 align="center">BUILDING THE FUTURE, ONE COMMIT AT A TIME.</h3>
+<h2 align="center">BUILD. CREATE. INNOVATE.</h2>
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  <b>Thanks for visiting my digital space! 💜</b>
 </p>
 
 <p align="center">
-  <i>Designed with passion by Aniket Sahgal</i>
+  <i>Crafted with passion by Aniket Sahgal.</i>
 </p>

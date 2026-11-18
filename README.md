@@ -44,7 +44,7 @@
 </div>
 
 <p align="center">
-I'm <b>Aniket Sahgal</b>, a Computer Science student and Full Stack Developer who enjoys turning ideas into useful, engaging web experiences.
+I'm <b>Aniket Sahgal</b>, a Computer Science Engineer and Full Stack Developer who enjoys turning ideas into useful, engaging web experiences.
 </p>
 
 <p align="center">

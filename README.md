@@ -1,43 +1,51 @@
 
 <!-- ====================================================== -->
-<!-- ANIKET SAHGAL | PREMIUM NEON GLASS GITHUB PROFILE      -->
+<!-- ANIKET SAHGAL | PREMIUM DEVELOPER PROFILE              -->
+<!-- NEON GLASS + PLAYING CARD PROJECT SHOWCASE             -->
 <!-- ====================================================== -->
 
-<!-- HERO BANNER -->
+<!-- ================= HERO ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:25145B,70:075C78,100:080B18&height=250&section=header&text=ANIKET%20SAHGAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CS%20ENGINEER&descSize=17&descColor=00E5FF&descAlignY=61&animation=twinkling" width="100%" alt="Aniket Sahgal"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:25145B,70:075C78,100:080B18&height=250&section=header&text=ANIKET%20SAHGAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CS%20ENGINEER&descSize=17&descColor=00E5FF&descAlignY=61&animation=twinkling"
+    width="100%"
+    alt="Aniket Sahgal developer banner"
+  />
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey!+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Developer;Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+MongoDB;Code.+Create.+Innovate.+Repeat." alt="Typing animation"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey!+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Developer;Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+MongoDB;Code.+Create.+Innovate.+Repeat."
+    alt="Animated developer introduction"
+  />
 </p>
 
 <p align="center">
   <b>⚡ Turning ideas into interactive digital experiences.</b>
 </p>
 
-<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://github.com/Sehgal1001">
-    <img src="https://img.shields.io/badge/GITHUB-18152C?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+    <img src="https://img.shields.io/badge/GITHUB-18152C?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/aniket-sahgal-297a67276">
-    <img src="https://img.shields.io/badge/LINKEDIN-18152C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-18152C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Sehgal1001?tab=repositories">
-    <img src="https://img.shields.io/badge/MY_PROJECTS-18152C?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/PROJECTS-18152C?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Projects"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sehgal1001&label=PROFILE+VISITORS&color=6C3BFF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Sehgal1001?label=Followers&style=for-the-badge&color=7657D5"/>
+  <img src="https://komarev.com/ghpvc/?username=Sehgal1001&label=PROFILE+VISITORS&color=6C3BFF&style=for-the-badge" alt="Profile visitors"/>
+  <img src="https://img.shields.io/github/followers/Sehgal1001?label=Followers&style=for-the-badge&color=7657D5" alt="GitHub followers"/>
 </p>
 
 ---
 
-<!-- ABOUT ME -->
+<!-- ================= ABOUT ME ================= -->
+
 <h2 align="center">✦ THE DEVELOPER BEHIND THE CODE</h2>
 
 <p align="center">
@@ -69,7 +77,8 @@
 
 ---
 
-<!-- DEVELOPER DASHBOARD -->
+<!-- ================= DEVELOPER DASHBOARD ================= -->
+
 <h2 align="center">◈ DEVELOPER DASHBOARD</h2>
 
 <p align="center">
@@ -89,13 +98,14 @@
 
 ---
 
-<!-- TECHNOLOGY STACK -->
+<!-- ================= TECH STACK ================= -->
+
 <h2 align="center">✦ MY TECH ARSENAL</h2>
 
 <h3 align="center">01 / FRONTEND DEVELOPMENT</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend technologies"/>
 </p>
 
 <p align="center">
@@ -108,7 +118,7 @@
 <h3 align="center">02 / BACKEND DEVELOPMENT</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies"/>
 </p>
 
 <p align="center">
@@ -119,7 +129,7 @@
 <h3 align="center">03 / DATABASE TECHNOLOGIES</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database skills"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database technologies"/>
 </p>
 
 <p align="center">
@@ -142,7 +152,8 @@
 
 ---
 
-<!-- DEVELOPER TERMINAL -->
+<!-- ================= DEVELOPER TERMINAL ================= -->
+
 <h2 align="center">✦ ACCESS DEVELOPER TERMINAL</h2>
 
 <p align="center">
@@ -182,119 +193,85 @@ $ status
 
 ---
 
-<!-- ====================================================== -->
-<!-- PLAYING CARD PROJECT SHOWCASE                           -->
-<!-- ====================================================== -->
+<!-- ================= PLAYING CARD PROJECT SHOWCASE ================= -->
 
 <h2 align="center">♠ THE PROJECT DECK ♦</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MY_WORK-03_PROJECTS-17152D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/CREATED_WITH-PASSION-241637?style=for-the-badge&logo=heart&logoColor=FF69B4"/>
+  <img src="https://img.shields.io/badge/DESIGN-NEON_GLASS-241637?style=for-the-badge&logo=figma&logoColor=A78BFA"/>
 </p>
 
 <p align="center">
   <i>Every project tells a story. Every line of code creates something new.</i>
 </p>
 
+<!-- AI GENERATED PLAYING CARD ARTWORK -->
+
+<p align="center">
+  <img
+    src="./assets/project-deck.png"
+    width="100%"
+    alt="Neon playing card project showcase: Weather App, Food Recipe App and Personal Portfolio"
+  />
+</p>
+
+<!-- PROJECT LINKS -->
+
 <table width="100%">
 <tr>
+<td width="33%" align="center">
 
-<!-- CARD 1: WEATHER -->
-<td width="50%" align="center" valign="top">
+<h3>♠ WEATHER APP</h3>
 
-<h1>♠ A</h1>
-
-<img src="https://img.shields.io/badge/01-WEATHER_APP-00D9FF?style=for-the-badge&labelColor=111827"/>
-
-<h3>🌦️ WEATHER FORECAST</h3>
-
-<p>
-A weather forecasting web application
-with a live online deployment.
-</p>
-
-<br/>
+<p>Weather forecasting web application.</p>
 
 <a href="https://weather-forecast-omega-dusky.vercel.app/">
-<img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Weather live demo"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Weather demo"/>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/Sehgal1001?tab=repositories">
-<img src="https://img.shields.io/badge/SOURCE_CODE-18152C?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<h1>♠</h1>
 
 </td>
 
-<!-- CARD 2: FOOD RECIPE -->
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center">
 
-<h1>♦ K</h1>
+<h3>♦ FOOD RECIPE</h3>
 
-<img src="https://img.shields.io/badge/02-RECIPE_APP-A78BFA?style=for-the-badge&labelColor=111827"/>
-
-<h3>🍽️ FOOD RECIPE APP</h3>
-
-<p>
-A food recipe web application
-for exploring recipes online.
-</p>
-
-<br/>
+<p>Explore food recipes online.</p>
 
 <a href="https://sehgal1001.github.io/Food_Recipie/">
-<img src="https://img.shields.io/badge/▶_LIVE_DEMO-A78BFA?style=for-the-badge&logo=githubpages&logoColor=white" alt="Recipe live demo"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-A78BFA?style=for-the-badge&logo=githubpages&logoColor=white" alt="Recipe demo"/>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/Sehgal1001?tab=repositories">
-<img src="https://img.shields.io/badge/SOURCE_CODE-18152C?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<h1>♦</h1>
 
 </td>
-</tr>
 
-<tr>
+<td width="33%" align="center">
 
-<!-- CARD 3: PORTFOLIO -->
-<td colspan="2" align="center" valign="top">
+<h3>♣ PORTFOLIO</h3>
 
-<h1>♣ Q</h1>
-
-<img src="https://img.shields.io/badge/03-PERSONAL_PORTFOLIO-00D6A0?style=for-the-badge&labelColor=111827"/>
-
-<h3>💼 PERSONAL PORTFOLIO WEBSITE</h3>
-
-<p>
-A personal portfolio project showcasing my developer identity and work.
-</p>
+<p>Personal developer portfolio project.</p>
 
 <a href="https://github.com/Sehgal1001?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-00D6A0?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE-00D6A0?style=for-the-badge&logo=github&logoColor=black" alt="Portfolio repositories"/>
 </a>
-
-<h1>♣</h1>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8B5CF6,100:00D9FF&height=3&section=header" width="80%"/>
+  <a href="https://github.com/Sehgal1001?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_MY_PROJECTS-18152C?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  </a>
 </p>
 
-<h3 align="center">♠ THREE PROJECTS • ONE CREATIVE MIND • INFINITE POSSIBILITIES ♠</h3>
+<p align="center">
+  <b>♠ THREE PROJECTS • ONE CREATIVE MIND • INFINITE POSSIBILITIES ♣</b>
+</p>
 
 ---
 
-<!-- GITHUB ANALYTICS -->
+<!-- ================= GITHUB STATISTICS ================= -->
+
 <h2 align="center">✦ GITHUB PERFORMANCE</h2>
 
 <p align="center">
@@ -310,7 +287,7 @@ A personal portfolio project showcasing my developer identity and work.
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF"
     width="41%"
-    alt="Most used languages"
+    alt="Most used programming languages"
   />
 </p>
 
@@ -324,7 +301,8 @@ A personal portfolio project showcasing my developer identity and work.
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
+
 <h2 align="center">✦ CONTRIBUTION UNIVERSE</h2>
 
 <p align="center">
@@ -337,7 +315,8 @@ A personal portfolio project showcasing my developer identity and work.
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+
 <h2 align="center">✦ THE CONTRIBUTION SNAKE</h2>
 
 <p align="center">
@@ -350,20 +329,22 @@ A personal portfolio project showcasing my developer identity and work.
 
 ---
 
-<!-- TROPHIES -->
+<!-- ================= GITHUB TROPHIES ================= -->
+
 <h2 align="center">✦ GITHUB ACHIEVEMENTS</h2>
 
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=Sehgal1001&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"
     width="95%"
-    alt="GitHub trophies"
+    alt="GitHub achievements"
   />
 </p>
 
 ---
 
-<!-- CONNECT -->
+<!-- ================= CONNECT ================= -->
+
 <h2 align="center">✦ LET'S CONNECT</h2>
 
 <p align="center">
@@ -375,21 +356,26 @@ A personal portfolio project showcasing my developer identity and work.
     <img src="https://img.shields.io/badge/GITHUB-LET'S_CONNECT-18152C?style=for-the-badge&logo=github&logoColor=00E5FF"/>
   </a>
   <a href="https://www.linkedin.com/in/aniket-sahgal-297a67276">
-    <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-18152C?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-18152C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sehgal1001?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-9B75FF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- FOOTER -->
+<!-- ================= FOOTER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,40:25145B,75:075C78,100:080B18&height=150&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,40:25145B,75:075C78,100:080B18&height=150&section=footer&animation=twinkling"
+    width="100%"
+    alt="Animated footer"
+  />
 </p>
 
 <h2 align="center">BUILD. CREATE. INNOVATE.</h2>

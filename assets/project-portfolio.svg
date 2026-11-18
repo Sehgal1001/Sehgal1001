@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">PERSONAL PORTFOLIO — Aniket Sahgal Project 03</title>
+<desc id="desc">A personal space for my profile, skills and development work.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111B35"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1A2742"/><stop offset="1" stop-color="#10182B"/>
+  </linearGradient>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.5" fill="#34D399" opacity=".28"/>
+  </pattern>
+</defs>
+<style>
+  .title {font:700 43px Arial,sans-serif;fill:#F8FAFC;letter-spacing:1px}
+  .sub {font:400 22px Arial,sans-serif;fill:#C4D0E3}
+  .tag {font:700 15px Arial,sans-serif;fill:#EAF2FF;letter-spacing:1px}
+  .small {font:700 17px Arial,sans-serif;fill:#34D399;letter-spacing:3px}
+  .cta {font:700 18px Arial,sans-serif;fill:#07111F;letter-spacing:1.5px}
+</style>
+<rect width="900" height="620" rx="34" fill="url(#bg)"/>
+<rect width="900" height="620" rx="34" fill="url(#dots)"/>
+<circle cx="790" cy="95" r="150" fill="#34D399" opacity=".08"/>
+<circle cx="100" cy="560" r="170" fill="#22D3EE" opacity=".07"/>
+
+<!-- offset extrusion layers -->
+<path d="M125 95 L755 95 Q785 95 785 125 L785 510 L755 540 L125 540 Q95 540 95 510 L95 125 Q95 95 125 95Z" fill="#050914" opacity=".9" transform="translate(22 25)"/>
+<path d="M125 95 L755 95 Q785 95 785 125 L785 510 L755 540 L125 540 Q95 540 95 510 L95 125 Q95 95 125 95Z" fill="url(#panel)" stroke="#34D399" stroke-width="2.5" stroke-opacity=".8"/>
+<path d="M125 95 L755 95 Q785 95 785 125 L785 510" fill="none" stroke="#FFFFFF" stroke-opacity=".16" stroke-width="2"/>
+
+<!-- top accent strip -->
+<path d="M125 95 H755 Q785 95 785 125 V143 H95 V125 Q95 95 125 95Z" fill="url(#accent)"/>
+<text x="135" y="128" class="tag" fill="#07111F">PROJECT 03</text>
+<text x="745" y="128" text-anchor="end" class="tag" fill="#07111F">ANIKET SAHGAL</text>
+
+<!-- floating icon tile -->
+<g transform="translate(135 185)">
+  <path d="M20 0 H126 Q142 0 142 16 V118 Q142 134 126 134 H20 Q4 134 4 118 V16 Q4 0 20 0Z" fill="#34D399" opacity=".16" stroke="#34D399" stroke-width="2"/>
+  <text x="73" y="91" text-anchor="middle" font-size="66">💼</text>
+</g>
+
+<text x="315" y="235" class="small">FEATURED PROJECT</text>
+<text x="315" y="295" class="title">PERSONAL PORTFOLIO</text>
+<text x="315" y="340" class="sub">A personal space for my profile, skills and development work.</text>
+
+<!-- tech chips -->
+<g transform="translate(135 390)"><g transform="translate(0,0)"><rect x="0" y="0" width="110" height="34" rx="17" fill="#17233B" stroke="#34D399" stroke-opacity=".65"/><text x="55.0" y="22" text-anchor="middle" class="tag">HTML5</text></g><g transform="translate(124,0)"><rect x="0" y="0" width="105" height="34" rx="17" fill="#17233B" stroke="#34D399" stroke-opacity=".65"/><text x="52.5" y="22" text-anchor="middle" class="tag">CSS3</text></g><g transform="translate(243,0)"><rect x="0" y="0" width="150" height="34" rx="17" fill="#17233B" stroke="#34D399" stroke-opacity=".65"/><text x="75.0" y="22" text-anchor="middle" class="tag">JAVASCRIPT</text></g></g>
+
+<!-- call to action -->
+<g transform="translate(135 465)">
+  <rect x="0" y="0" width="260" height="54" rx="14" fill="url(#accent)"/>
+  <text x="130" y="35" text-anchor="middle" class="cta">EXPLORE PROJECT</text>
+</g>
+<text x="745" y="500" text-anchor="end" class="small">BUILD • CREATE • INNOVATE</text>
+<path d="M135 555 H765" stroke="#34D399" stroke-opacity=".35" stroke-width="2"/>
+</svg>

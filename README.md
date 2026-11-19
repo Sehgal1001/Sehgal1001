@@ -1,74 +1,83 @@
-# ANIKET SAHGAL | GITHUB PROFILE
+<!-- ========================================================= -->
+<!--             ANIKET SAHGAL | GITHUB PROFILE                 -->
+<!--       PREMIUM NEON DEVELOPER PROFILE + 3D PROJECT TRAY      -->
+<!-- ========================================================= -->
 
-\<div align="center">
+<div align="center">
 
-\<!-- ================= PROFESSIONAL HD IMAGE BANNER ================= -->
+<!-- ================= PROFESSIONAL HD IMAGE BANNER ================= -->
 
-\<img src="./assets/developer-banner.webp" width="100%" alt="Aniket Sahgal - Professional Developer Workspace" />
+<img
+  src="./assets/developer-banner.webp"
+  width="100%"
+  alt="Aniket Sahgal - Professional Developer Workspace"
+/>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:070B18,25:171044,60:075985,100:070B18&height=260&section=header&text=ANIKET%20SAHGAL&fontSize=60&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20ENGINEER&descSize=18&descColor=00E5FF&descAlignY=60&animation=twinkling](https://capsule-render.vercel.app/api?type=waving\&color=0:070B18,25:171044,60:075985,100:070B18\&height=260\&section=header\&text=ANIKET%20SAHGAL\&fontSize=60\&fontColor=FFFFFF\&fontAlignY=37\&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20ENGINEER\&descSize=18\&descColor=00E5FF\&descAlignY=60\&animation=twinkling)" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,25:171044,60:075985,100:070B18&height=260&section=header&text=ANIKET%20SAHGAL&fontSize=60&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20ENGINEER&descSize=18&descColor=00E5FF&descAlignY=60&animation=twinkling" />
 
-\<br/>
+<br/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Hey%2C+I](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=21\&duration=2600\&pause=900\&color=00E5FF\&center=true\&vCenter=true\&width=760\&lines=Hey%2C+I)'m+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Web+Developer;I+build+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Curious+Mind.+Creative+Builder.+Lifelong+Learner." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Web+Developer;I+build+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Curious+Mind.+Creative+Builder.+Lifelong+Learner." alt="Animated introduction" />
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://komarev.com/ghpvc/?username=Sehgal1001&label=PROFILE%20VIEWS&color=6C3BFF&style=for-the-badge](https://komarev.com/ghpvc/?username=Sehgal1001\&label=PROFILE%20VIEWS\&color=6C3BFF\&style=for-the-badge)"/>
-\<img src="[https://img.shields.io/github/followers/Sehgal1001?label=Followers&style=for-the-badge&color=0EA5E9](https://img.shields.io/github/followers/Sehgal1001?label=Followers\&style=for-the-badge\&color=0EA5E9)"/>
+<img src="https://komarev.com/ghpvc/?username=Sehgal1001&label=PROFILE%20VIEWS&color=6C3BFF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Sehgal1001?label=Followers&style=for-the-badge&color=0EA5E9"/>
 
-\<br/>\<br/>
+<br/><br/>
 
 **⚡ BUILD WITH PURPOSE · LEARN EVERY DAY · CREATE WHAT MATTERS**
 
-\</div>
+</div>
 
 ---
 
-\<h2 align="center">✦ A LITTLE ABOUT ME\</h2>
+<!-- ================= ABOUT ================= -->
 
-\<div align="center">
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:8B5CF6&height=3](https://capsule-render.vercel.app/api?type=rect\&color=0:00E5FF,100:8B5CF6\&height=3)" width="48%"/>
-\</div>
+<h2 align="center">✦ A LITTLE ABOUT ME</h2>
 
-\<p align="center">
-I'm \<b>Aniket Sahgal\</b>, a Computer Science Engineer and Full Stack Developer who enjoys turning ideas into useful, engaging web experiences.
-\</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:8B5CF6&height=3" width="48%"/>
+</div>
 
-\<p align="center">
+<p align="center">
+I'm <b>Aniket Sahgal</b>, a Computer Science Engineer and Full Stack Developer who enjoys turning ideas into useful, engaging web experiences.
+</p>
+
+<p align="center">
 I like working across the frontend and backend — from shaping a clean interface to building the logic that makes an application work.
-\</p>
+</p>
 
-\<div align="center">
+<div align="center">
 
-\<table>
-\<tr>
-\<td align="center" width="25%">
-\<h3>🎨\</h3>
-\<b>Design\</b>
-\<br/>\<sub>Clear, responsive interfaces\</sub>
-\</td>
-\<td align="center" width="25%">
-\<h3>⚙️\</h3>
-\<b>Develop\</b>
-\<br/>\<sub>Useful web applications\</sub>
-\</td>
-\<td align="center" width="25%">
-\<h3>🧩\</h3>
-\<b>Problem Solve\</b>
-\<br/>\<sub>Thoughtful solutions\</sub>
-\</td>
-\<td align="center" width="25%">
-\<h3>🌱\</h3>
-\<b>Keep Learning\</b>
-\<br/>\<sub>Consistent improvement\</sub>
-\</td>
-\</tr>
-\</table>
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🎨</h3>
+<b>Design</b>
+<br/><sub>Clear, responsive interfaces</sub>
+</td>
+<td align="center" width="25%">
+<h3>⚙️</h3>
+<b>Develop</b>
+<br/><sub>Useful web applications</sub>
+</td>
+<td align="center" width="25%">
+<h3>🧩</h3>
+<b>Problem Solve</b>
+<br/><sub>Thoughtful solutions</sub>
+</td>
+<td align="center" width="25%">
+<h3>🌱</h3>
+<b>Keep Learning</b>
+<br/><sub>Consistent improvement</sub>
+</td>
+</tr>
+</table>
 
-\</div>
+</div>
 
 - 💻 Interested in full stack and modern web development.
 - 🌱 Continuously learning and strengthening my development skills.
@@ -77,142 +86,185 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 ---
 
-\<h2 align="center">⚡ TECH STACK & TOOLKIT\</h2>
+<!-- ================= TECH STACK ================= -->
 
-\<p align="center"> \<i>Technologies and tools I use to design, build, and improve web applications.\</i> \</p>
+<h2 align="center">⚡ TECH STACK & TOOLKIT</h2>
 
-\<br/>
+<p align="center">
+<i>Technologies and tools I use to design, build, and improve web applications.</i>
+</p>
 
-\<div align="center">
+<br/>
 
-\<table> \<tr> \<td align="center" width="50%">
+<div align="center">
 
-\<h3>01 · FRONTEND DEVELOPMENT\</h3>
+<table>
+<tr>
+<td align="center" width="50%">
 
-\<img src="[https://skillicons.dev/icons?i=html,css,js,react&theme=dark](https://skillicons.dev/icons?i=html,css,js,react\&theme=dark)" />
+<h3>01 · FRONTEND DEVELOPMENT</h3>
 
-\</td>
-\<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-\<h3>02 · BACKEND DEVELOPMENT\</h3>
+</td>
+<td align="center" width="50%">
 
-\<img src="[https://skillicons.dev/icons?i=nodejs,express&theme=dark](https://skillicons.dev/icons?i=nodejs,express\&theme=dark)" />
+<h3>02 · BACKEND DEVELOPMENT</h3>
 
-\</td>
-\</tr>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-\<tr>
-\<td align="center" width="50%">
+</td>
+</tr>
 
-\<h3>03 · DATABASES\</h3>
+<tr>
+<td align="center" width="50%">
 
-\<img src="[https://skillicons.dev/icons?i=mongodb,mysql&theme=dark](https://skillicons.dev/icons?i=mongodb,mysql\&theme=dark)" />
+<h3>03 · DATABASES</h3>
 
-\</td>
-\<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-\<h3>04 · TOOLS & WORKFLOW\</h3>
+</td>
+<td align="center" width="50%">
 
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,postman\&theme=dark)" />
+<h3>04 · TOOLS & WORKFLOW</h3>
 
-\</td>
-\</tr>
-\</table>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
-\</div>
+</td>
+</tr>
+</table>
 
-\<br/>
+</div>
 
-\<div align="center">
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:8B5CF6&height=2](https://capsule-render.vercel.app/api?type=rect\&color=0:00E5FF,100:8B5CF6\&height=2)" width="55%"/>
-\</div>
+<br/>
 
----
-
-\<!-- ================= 3D PROJECT TRAY ================= -->
-
-\<h2 align="center">🚀 THE PROJECT TRAY\</h2>
-
-\<p align="center"> \<i>Selected builds — each one a step forward in my development journey.\</i> \</p>
-
-\<div align="center">
-
-\<table>
-\<tr>
-
-\<td width="50%" align="center"> \<a href="[https://weather-forecast-omega-dusky.vercel.app/](https://weather-forecast-omega-dusky.vercel.app/)"> \<img src="./assets/project-weather.svg" width="100%" alt="Weather Forecast project card"/> \</a> \</td>
-
-\<td width="50%" align="center"> \<a href="[https://sehgal1001.github.io/Food_Recipie/](https://sehgal1001.github.io/Food_Recipie/)"> \<img src="./assets/project-recipe.svg" width="100%" alt="Food Recipe project card"/> \</a> \</td>
-
-\</tr>
-
-\<tr>
-
-\<td width="50%" align="center"> \<a href="[https://sehgal1001.github.io/scientific-calculator/](https://sehgal1001.github.io/scientific-calculator/)"> \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:070B18,50:171044,100:075985&height=180&section=header&text=SCIENTIFIC%20CALCULATOR&fontSize=25&fontColor=00E5FF&fontAlignY=40&desc=SMART%20CALCULATIONS%20%7C%20INTERACTIVE%20UI&descSize=11&descColor=FFFFFF&descAlignY=70](https://capsule-render.vercel.app/api?type=rect\&color=0:070B18,50:171044,100:075985\&height=180\&section=header\&text=SCIENTIFIC%20CALCULATOR\&fontSize=25\&fontColor=00E5FF\&fontAlignY=40\&desc=SMART%20CALCULATIONS%20%7C%20INTERACTIVE%20UI\&descSize=11\&descColor=FFFFFF\&descAlignY=70)" width="100%" alt="Scientific Calculator project card"/> \</a> \</td>
-
-\<td width="50%" align="center"> \<a href="[https://sehgal1001.github.io/ultimate-tic-tac-toe/](https://sehgal1001.github.io/ultimate-tic-tac-toe/)"> \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:070B18,50:171044,100:075985&height=180&section=header&text=ULTIMATE%20TIC%20TAC%20TOE&fontSize=24&fontColor=00E5FF&fontAlignY=40&desc=STRATEGY%20%7C%20LOGIC%20%7C%20GAMEPLAY&descSize=11&descColor=FFFFFF&descAlignY=70](https://capsule-render.vercel.app/api?type=rect\&color=0:070B18,50:171044,100:075985\&height=180\&section=header\&text=ULTIMATE%20TIC%20TAC%20TOE\&fontSize=24\&fontColor=00E5FF\&fontAlignY=40\&desc=STRATEGY%20%7C%20LOGIC%20%7C%20GAMEPLAY\&descSize=11\&descColor=FFFFFF\&descAlignY=70)" width="100%" alt="Ultimate Tic Tac Toe project card"/> \</a> \</td>
-
-\</tr>
-
-\<tr> \<td colspan="2" align="center"> \<a href="[https://github.com/Sehgal1001?tab=repositories](https://github.com/Sehgal1001?tab=repositories)"> \<img src="./assets/project-portfolio.svg" width="78%" alt="Personal Portfolio project card"/> \</a> \</td> \</tr> \</table>
-
-\<br/>
-
-\<a href="[https://github.com/Sehgal1001?tab=repositories](https://github.com/Sehgal1001?tab=repositories)"> \<img src="[https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-17152D?style=for-the-badge&logo=github&logoColor=00E5FF](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-17152D?style=for-the-badge\&logo=github\&logoColor=00E5FF)"/> \</a>
-
-\<br/>\<br/>
-\<b>✦ PLAN · BUILD · TEST · IMPROVE ✦\</b>
-
-\</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:8B5CF6&height=2" width="55%"/>
+</div>
 
 ---
 
-\<h2 align="center">📊 GITHUB DASHBOARD\</h2>
+<!-- ================= 3D PROJECT TRAY ================= -->
 
-\<p align="center"> \<i>A snapshot of my public GitHub activity.\</i> \</p>
+<h2 align="center">🚀 THE PROJECT TRAY</h2>
 
-\<div align="center">
+<p align="center">
+<i>Selected builds — each one a step forward in my development journey.</i>
+</p>
 
-\<a href="[https://github.com/Sehgal1001](https://github.com/Sehgal1001)"> \<img height="180" src="[https://github-readme-stats.vercel.app/api?username=Sehgal1001&show_icons=true&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF&icon_color=9B75FF&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Sehgal1001\&show_icons=true\&hide_border=true\&bg_color=0D1425\&title_color=00E5FF\&text_color=FFFFFF\&icon_color=9B75FF\&rank_icon=github)"/> \</a>
+<div align="center">
 
-\<a href="[https://github.com/Sehgal1001](https://github.com/Sehgal1001)"> \<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001\&layout=compact\&hide_border=true\&bg_color=0D1425\&title_color=00E5FF\&text_color=FFFFFF)"/> \</a>
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://weather-forecast-omega-dusky.vercel.app/">
+<img src="./assets/project-weather.svg" width="100%" alt="Weather Forecast project card"/>
+</a>
+</td>
 
-\<br/>\<br/>
+<td width="50%" align="center">
+<a href="https://sehgal1001.github.io/Food_Recipie/">
+<img src="./assets/project-recipe.svg" width="100%" alt="Food Recipe project card"/>
+</a>
+</td>
+</tr>
 
-\<img width="72%" src="[https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF](https://streak-stats.demolab.com?user=Sehgal1001\&theme=dark\&hide_border=true\&background=0D1425\&ring=00E5FF\&fire=9B75FF\&currStreakLabel=00E5FF)" alt="GitHub contribution streak"/>
+<tr>
+<td width="50%" align="center">
+<a href="https://sehgal1001.github.io/scientific-calculator/">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,50:171044,100:075985&height=180&section=header&text=SCIENTIFIC%20CALCULATOR&fontSize=25&fontColor=00E5FF&fontAlignY=40&desc=SMART%20CALCULATIONS%20%7C%20INTERACTIVE%20UI&descSize=11&descColor=FFFFFF&descAlignY=70" width="100%" alt="Scientific Calculator project card"/>
+</a>
+</td>
 
-\</div>
+<td width="50%" align="center">
+<a href="https://sehgal1001.github.io/ultimate-tic-tac-toe/">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,50:171044,100:075985&height=180&section=header&text=ULTIMATE%20TIC%20TAC%20TOE&fontSize=24&fontColor=00E5FF&fontAlignY=40&desc=STRATEGY%20%7C%20LOGIC%20%7C%20GAMEPLAY&descSize=11&descColor=FFFFFF&descAlignY=70" width="100%" alt="Ultimate Tic Tac Toe project card"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/Sehgal1001?tab=repositories">
+<img src="./assets/project-portfolio.svg" width="78%" alt="Personal Portfolio project card"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/Sehgal1001?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-17152D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+
+<br/><br/>
+<b>✦ PLAN · BUILD · TEST · IMPROVE ✦</b>
+
+</div>
 
 ---
 
-\<h2 align="center">📈 CONTRIBUTION ACTIVITY\</h2>
+<!-- ================= GITHUB DASHBOARD ================= -->
 
-\<div align="center">
+<h2 align="center">📊 GITHUB DASHBOARD</h2>
 
-\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001\&bg_color=0D1425\&color=00E5FF\&line=9B75FF\&point=FFFFFF\&area=true\&hide_border=true\&custom_title=My%20GitHub%20Contribution%20Graph)"/>
+<p align="center">
+<i>A snapshot of my public GitHub activity.</i>
+</p>
 
-\</div>
+<div align="center">
+
+<a href="https://github.com/Sehgal1001">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sehgal1001&show_icons=true&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF&icon_color=9B75FF&rank_icon=github"/>
+</a>
+
+<a href="https://github.com/Sehgal1001">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF"/>
+</a>
+
+<br/><br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-\<h2 align="center">🐍 CONTRIBUTION SNAKE\</h2>
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
-\<div align="center">
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
-\<img src="[https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="GitHub contribution snake animation"/>
+<div align="center">
 
-\</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"/>
+
+</div>
 
 ---
 
-\<h2 align="center">⌨️ DEVELOPER TERMINAL\</h2>
+<!-- ================= CONTRIBUTION SNAKE ================= -->
 
-\<div align="center">
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
-\<img src="[https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00D6A0?style=for-the-badge&labelColor=10172B](https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00D6A0?style=for-the-badge\&labelColor=10172B)"/>
-\<img src="[https://img.shields.io/badge/USER-ANIKET-9B75FF?style=for-the-badge&labelColor=10172B](https://img.shields.io/badge/USER-ANIKET-9B75FF?style=for-the-badge\&labelColor=10172B)"/>
+<div align="center">
 
-\</div>
+<img src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+<!-- ================= DEVELOPER TERMINAL ================= -->
+
+<h2 align="center">⌨️ DEVELOPER TERMINAL</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00D6A0?style=for-the-badge&labelColor=10172B"/>
+<img src="https://img.shields.io/badge/USER-ANIKET-9B75FF?style=for-the-badge&labelColor=10172B"/>
+
+</div>
 
 ```bash
 ╭────────────────────────────────────────────╮
@@ -246,47 +298,51 @@ $ philosophy
 
 ---
 
-\<h2 align="center">🤝 LET'S CONNECT\</h2>
+<!-- ================= CONNECT ================= -->
 
-\<div align="center">
+<h2 align="center">🤝 LET'S CONNECT</h2>
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:00E5FF&height=3](https://capsule-render.vercel.app/api?type=rect\&color=0:00E5FF,50:8B5CF6,100:00E5FF\&height=3)" width="55%"/>
+<div align="center">
 
-\<h3>Have an idea or want to build something together?\</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:00E5FF&height=3" width="55%"/>
 
-\<p>
+<h3>Have an idea or want to build something together?</h3>
+
+<p>
 I'm happy to connect with fellow developers, exchange ideas,
 learn from others, and collaborate on meaningful projects.
-\</p>
+</p>
 
-\<br/>
+<br/>
 
-\<a href="[https://github.com/Sehgal1001](https://github.com/Sehgal1001)">
-\<img src="[https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+<a href="https://github.com/Sehgal1001">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-\<a href="[https://www.linkedin.com/in/aniket-sahgal-297a67276](https://www.linkedin.com/in/aniket-sahgal-297a67276)">
-\<img src="[https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-\</a>
+<a href="https://www.linkedin.com/in/aniket-sahgal-297a67276">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<b>✦ CONNECT · COLLABORATE · GROW ✦\</b>
+<b>✦ CONNECT · COLLABORATE · GROW ✦</b>
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<!-- ================= FOOTER ================= -->
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:070B18,30:171044,70:075985,100:070B18&height=155&section=footer&animation=twinkling](https://capsule-render.vercel.app/api?type=waving\&color=0:070B18,30:171044,70:075985,100:070B18\&height=155\&section=footer\&animation=twinkling)"/>
+<div align="center">
 
-\<h3>BUILD. CREATE. INNOVATE.\</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,30:171044,70:075985,100:070B18&height=155&section=footer&animation=twinkling"/>
 
-\<b>Thanks for visiting my GitHub profile! 💜\</b>
+<h3>BUILD. CREATE. INNOVATE.</h3>
 
-\<br/>
+<b>Thanks for visiting my GitHub profile! 💜</b>
 
-\<sub>Designed and crafted by Aniket Sahgal.\</sub>
+<br/>
 
-\</div>
+<sub>Designed and crafted by Aniket Sahgal.</sub>
+
+</div>

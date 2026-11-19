@@ -214,9 +214,21 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 <td colspan="2" align="center">
-<a href="https://github.com/Sehgal1001?tab=repositories">
-<img src="./assets/project-portfolio.svg" width="78%" alt="Personal Portfolio project card"/>
+
+<a href="https://sehgal1001.github.io/Portfolio/">
+<img
+src="./assets/project-portfolio.svg"
+width="78%"
+alt="Aniket Sahgal - Personal Portfolio"
+/>
 </a>
+
+<br/>
+
+<a href="https://sehgal1001.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/VISIT_LIVE_PORTFOLIO-17152D?style=for-the-badge&logo=googlechrome&logoColor=00E5FF"/>
+</a>
+
 </td>
 </tr>
 

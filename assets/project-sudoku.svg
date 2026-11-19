@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07101F"/>
+    <stop offset=".55" stop-color="#10152E"/>
+    <stop offset="1" stop-color="#071B2C"/>
+  </linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#9D8CFF"/>
+    <stop offset="1" stop-color="#62D8C5"/>
+  </linearGradient>
+  <linearGradient id="cta" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#9D8CFF"/>
+    <stop offset="1" stop-color="#62D8C5"/>
+  </linearGradient>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+    <circle cx="3" cy="3" r="1.5" fill="#9D8CFF" opacity=".4"/>
+  </pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+    <feOffset dy="13"/>
+    <feComponentTransfer><feFuncA type="linear" slope=".55"/></feComponentTransfer>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .meta {font:700 17px Arial,sans-serif;letter-spacing:1.1px;fill:#fff}
+    .eyebrow {font:700 17px Arial,sans-serif;letter-spacing:3.5px;fill:#9D8CFF}
+    .title {font:800 43px Arial,sans-serif;fill:#fff}
+    .desc {font:400 20px Arial,sans-serif;fill:#e7edf8}
+    .tech {font:700 15px Arial,sans-serif;fill:#fff;letter-spacing:.8px}
+    .button {font:700 16px Arial,sans-serif;fill:#06111f;letter-spacing:1.2px}
+    .tagline {font:700 15px Arial,sans-serif;fill:#62D8C5;letter-spacing:2.5px}
+  </style>
+</defs>
+
+<!-- Same dotted neon background and framed tray style as the reference project SVGs -->
+<rect width="1000" height="510" rx="26" fill="url(#bg)"/>
+<rect width="1000" height="510" rx="26" fill="url(#dots)"/>
+<path d="M0 390 Q120 300 260 510 H0Z" fill="#9D8CFF" opacity=".055"/>
+<path d="M760 0 H1000 V175 Q870 130 760 0Z" fill="#62D8C5" opacity=".10"/>
+
+<!-- Card shadow -->
+<path d="M100 20 H900 Q935 20 935 55 V425 L895 465 H135 Q100 465 100 430Z"
+      fill="#020711" opacity=".9" filter="url(#shadow)"/>
+
+<!-- Main card -->
+<path d="M100 12 H900 Q935 12 935 47 V417 L895 457 H135 Q100 457 100 422Z"
+      fill="#111B31" stroke="#9D8CFF" stroke-width="2.5"/>
+
+<!-- Header strip -->
+<path d="M100 47 Q100 12 135 12 H900 Q935 12 935 47 V68 H100Z" fill="url(#top)"/>
+<text x="140" y="48" class="meta">PROJECT 05</text>
+<text x="895" y="48" text-anchor="end" class="meta">ANIKET SAHGAL</text>
+
+<!-- Sudoku icon tile -->
+<g transform="translate(153 112)">
+  <rect x="0" y="0" width="150" height="150" rx="22" fill="#171D3B" stroke="#9D8CFF" stroke-opacity=".28"/>
+  <rect x="25" y="25" width="100" height="100" rx="9" fill="#091629" stroke="#62D8C5" stroke-width="2.5"/>
+  <g stroke="#9D8CFF" stroke-opacity=".8" stroke-width="2">
+    <path d="M58.33 25 V125 M91.66 25 V125 M25 58.33 H125 M25 91.66 H125"/>
+  </g>
+  <g fill="#EAF5FF" font-family="Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle">
+    <text x="41.5" y="49">8</text><text x="75" y="49" fill="#62D8C5">3</text><text x="108.5" y="49">1</text>
+    <text x="41.5" y="82">4</text><text x="75" y="82">9</text><text x="108.5" y="82" fill="#62D8C5">6</text>
+    <text x="41.5" y="115" fill="#62D8C5">2</text><text x="75" y="115">7</text><text x="108.5" y="115">5</text>
+  </g>
+  <circle cx="119" cy="31" r="5" fill="#62D8C5"/>
+</g>
+
+<!-- Project information -->
+<text x="345" y="150" class="eyebrow">FEATURED PROJECT</text>
+<text x="345" y="208" class="title">PREMIUM SUDOKU GAME</text>
+<text x="345" y="250" class="desc">Challenge your logic with a beautifully interactive Sudoku experience.</text>
+
+<!-- Identically aligned technology pills -->
+<rect x="140" y="315" width="130" height="38" rx="19" fill="#101B31" stroke="#9D8CFF" stroke-width="1.4"/>
+<rect x="290" y="315" width="130" height="38" rx="19" fill="#101B31" stroke="#9D8CFF" stroke-width="1.4"/>
+<rect x="440" y="315" width="175" height="38" rx="19" fill="#101B31" stroke="#9D8CFF" stroke-width="1.4"/>
+<text x="205" y="340" text-anchor="middle" class="tech">HTML5</text>
+<text x="355" y="340" text-anchor="middle" class="tech">CSS3</text>
+<text x="527" y="340" text-anchor="middle" class="tech">JAVASCRIPT</text>
+
+<!-- Demo button and tagline aligned on one baseline -->
+<rect x="140" y="385" width="285" height="54" rx="16" fill="url(#cta)"/>
+<text x="282" y="419" text-anchor="middle" class="button">OPEN LIVE DEMO</text>
+<text x="895" y="419" text-anchor="end" class="tagline">BUILD • CREATE • INNOVATE</text>
+</svg>

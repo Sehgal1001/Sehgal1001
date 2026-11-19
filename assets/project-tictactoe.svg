@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07101F"/>
+    <stop offset="0.55" stop-color="#10152E"/>
+    <stop offset="1" stop-color="#071B2C"/>
+  </linearGradient>
+  <linearGradient id="head" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#C879F5"/>
+    <stop offset="1" stop-color="#00B8D9"/>
+  </linearGradient>
+  <linearGradient id="button" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#C879F5"/>
+    <stop offset="1" stop-color="#00B8D9"/>
+  </linearGradient>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+    <circle cx="3" cy="3" r="1.5" fill="#C879F5" opacity=".45"/>
+  </pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="10"/>
+    <feOffset dy="15"/>
+    <feComponentTransfer><feFuncA type="linear" slope=".55"/></feComponentTransfer>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .small {font:700 19px Arial,sans-serif;letter-spacing:1.2px;fill:#fff}
+    .eyebrow {font:700 19px Arial,sans-serif;letter-spacing:4px;fill:#C879F5}
+    .title {font:800 48px Arial,sans-serif;fill:#fff}
+    .desc {font:400 23px Arial,sans-serif;fill:#e7edf8}
+    .tech {font:700 17px Arial,sans-serif;fill:#fff;letter-spacing:1px}
+    .button {font:700 18px Arial,sans-serif;fill:#06111f;letter-spacing:1.5px}
+    .tagline {font:700 16px Arial,sans-serif;fill:#C879F5;letter-spacing:3px}
+  </style>
+</defs>
+
+<!-- Background -->
+<rect width="1000" height="560" rx="28" fill="url(#bg)"/>
+<rect width="1000" height="560" rx="28" fill="url(#dots)"/>
+<path d="M0 430 Q130 330 270 560 H0Z" fill="#C879F5" opacity=".055"/>
+<path d="M760 0 H1000 V190 Q870 145 760 0Z" fill="#00B8D9" opacity=".10"/>
+
+<!-- Card shadow and body -->
+<path d="M65 32 H935 Q970 32 970 67 V485 L925 530 H100 Q65 530 65 495Z"
+      fill="#020711" opacity=".9" filter="url(#shadow)"/>
+<path d="M65 22 H935 Q970 22 970 57 V475 L925 520 H100 Q65 520 65 485Z"
+      fill="#111B31" stroke="#C879F5" stroke-width="3"/>
+<path d="M65 57 Q65 22 100 22 H935 Q970 22 970 57 V83 H65Z" fill="url(#head)"/>
+<text x="112" y="61" class="small">PROJECT 04</text>
+<text x="890" y="61" text-anchor="end" class="small">ANIKET SAHGAL</text>
+
+<!-- Icon tile -->
+<rect x="115" y="135" width="170" height="170" rx="24" fill="#C879F5" opacity=".16" stroke="#C879F5" stroke-opacity=".35"/>
+
+<g transform="translate(145 165)" stroke="#00E5FF" stroke-width="7" stroke-linecap="round">
+  <path d="M38 0 V120 M82 0 V120 M0 38 H120 M0 82 H120" opacity=".9"/>
+  <circle cx="19" cy="19" r="13" fill="none" stroke="#FF70C8" stroke-width="7"/>
+  <path d="M55 54 L75 74 M75 54 L55 74" stroke="#00E5FF" stroke-width="8"/>
+  <circle cx="101" cy="101" r="13" fill="none" stroke="#FF70C8" stroke-width="7"/>
+</g>
+
+<!-- Project copy -->
+<text x="330" y="172" class="eyebrow">FEATURED PROJECT</text>
+<text x="330" y="235" class="title">ULTIMATE TIC TAC TOE</text>
+<text x="330" y="280" class="desc">Challenge your strategy with an interactive Tic Tac Toe game.</text>
+
+<!-- Technology pills -->
+<rect x="58" y="410" width="138" height="42" rx="21" fill="#101B31" stroke="#C879F5" stroke-width="1.5"/>
+        <text x="127.0" y="437" text-anchor="middle" class="tech">HTML5</text>
+<rect x="220" y="410" width="138" height="42" rx="21" fill="#101B31" stroke="#C879F5" stroke-width="1.5"/>
+        <text x="289.0" y="437" text-anchor="middle" class="tech">CSS3</text>
+<rect x="382" y="410" width="190" height="42" rx="21" fill="#101B31" stroke="#C879F5" stroke-width="1.5"/>
+        <text x="477.0" y="437" text-anchor="middle" class="tech">JAVASCRIPT</text>
+
+<!-- CTA -->
+<rect x="110" y="465" width="340" height="64" rx="18" fill="url(#button)"/>
+<text x="280" y="505" text-anchor="middle" class="button">OPEN LIVE DEMO</text>
+<text x="915" y="505" text-anchor="end" class="tagline">BUILD • CREATE • INNOVATE</text>
+</svg>

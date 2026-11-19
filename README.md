@@ -196,6 +196,20 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 </tr>
 
+<!-- PROJECT 06 : PREMIUM SUDOKU GAME -->
+
+<tr>
+<td colspan="2" align="center">
+<a href="https://sehgal1001.github.io/premium-sudoku-game/">
+<img src="./assets/project-sudoku.svg" width="78%" alt="Premium Sudoku Game project card"/>
+</a>
+<br/>
+<a href="https://github.com/Sehgal1001/premium-sudoku-game">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-17152D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+</td>
+</tr>
+
 <!-- PROJECT 05 : PERSONAL PORTFOLIO -->
 
 <tr>

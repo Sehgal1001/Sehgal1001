@@ -1,3 +1,4 @@
+
 <!-- ========================================================= -->
 <!--             ANIKET SAHGAL | GITHUB PROFILE                 -->
 <!--       PREMIUM NEON DEVELOPER PROFILE + 3D PROJECT TRAY      -->
@@ -156,32 +157,82 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <table>
 <tr>
+
+<!-- PROJECT 01 : WEATHER FORECAST -->
+
 <td width="50%" align="center">
 <a href="https://weather-forecast-omega-dusky.vercel.app/">
 <img src="./assets/project-weather.svg" width="100%" alt="Weather Forecast project card"/>
 </a>
 </td>
 
+<!-- PROJECT 02 : FOOD RECIPE -->
+
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/Food_Recipie/">
 <img src="./assets/project-recipe.svg" width="100%" alt="Food Recipe project card"/>
 </a>
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" align="center">
-<a href="https://sehgal1001.github.io/scientific-calculator/">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,50:171044,100:075985&height=180&section=header&text=SCIENTIFIC%20CALCULATOR&fontSize=25&fontColor=00E5FF&fontAlignY=40&desc=SMART%20CALCULATIONS%20%7C%20INTERACTIVE%20UI&descSize=11&descColor=FFFFFF&descAlignY=70" width="100%" alt="Scientific Calculator project card"/>
-</a>
-</td>
+
+<!-- PROJECT 03 : SCIENTIFIC CALCULATOR -->
 
 <td width="50%" align="center">
-<a href="https://sehgal1001.github.io/ultimate-tic-tac-toe/">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,50:171044,100:075985&height=180&section=header&text=ULTIMATE%20TIC%20TAC%20TOE&fontSize=24&fontColor=00E5FF&fontAlignY=40&desc=STRATEGY%20%7C%20LOGIC%20%7C%20GAMEPLAY&descSize=11&descColor=FFFFFF&descAlignY=70" width="100%" alt="Ultimate Tic Tac Toe project card"/>
+
+<a href="https://sehgal1001.github.io/scientific-calculator/">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,50:171044,100:075985&height=160&section=header&text=SCIENTIFIC%20CALCULATOR&fontSize=25&fontColor=00E5FF&fontAlignY=45&desc=SMART%20CALCULATIONS%20%7C%20INTERACTIVE%20UI&descSize=11&descColor=FFFFFF&descAlignY=75" width="100%" alt="Scientific Calculator project card"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/><br/>
+
+<a href="https://sehgal1001.github.io/scientific-calculator/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00D9C0?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Open Scientific Calculator live demo"/>
+</a>
+
+<br/><br/>
+
+<a href="https://sehgal1001.github.io/scientific-calculator/">LIVE PROJECT LINK ↗</a>
+
 </td>
+
+<!-- PROJECT 04 : ULTIMATE TIC TAC TOE -->
+
+<td width="50%" align="center">
+
+<a href="https://sehgal1001.github.io/ultimate-tic-tac-toe/">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,50:171044,100:075985&height=160&section=header&text=ULTIMATE%20TIC%20TAC%20TOE&fontSize=24&fontColor=00E5FF&fontAlignY=45&desc=STRATEGY%20%7C%20LOGIC%20%7C%20GAMEPLAY&descSize=11&descColor=FFFFFF&descAlignY=75" width="100%" alt="Ultimate Tic Tac Toe project card"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/><br/>
+
+<a href="https://sehgal1001.github.io/ultimate-tic-tac-toe/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00D9C0?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Open Ultimate Tic Tac Toe live demo"/>
+</a>
+
+<br/><br/>
+
+<a href="https://sehgal1001.github.io/ultimate-tic-tac-toe/">LIVE PROJECT LINK ↗</a>
+
+</td>
+
 </tr>
+
+<!-- PROJECT 05 : PERSONAL PORTFOLIO -->
 
 <tr>
 <td colspan="2" align="center">
@@ -190,6 +241,7 @@ I like working across the frontend and backend — from shaping a clean interfac
 </a>
 </td>
 </tr>
+
 </table>
 
 <br/>

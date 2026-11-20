@@ -6,17 +6,21 @@
 
 <div align="center">
 
-<!-- PROFESSIONAL BANNER -->
+<!-- ================= PROFESSIONAL HD IMAGE BANNER ================= -->
 
-<img src="./assets/developer-banner.webp" width="100%" alt="Aniket Sahgal - Professional Developer Workspace"/>
+<img
+  src="./assets/developer-banner.webp"
+  width="100%"
+  alt="Aniket Sahgal - Professional Developer Workspace"
+/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,25:171044,60:075985,100:070B18&height=260&section=header&text=ANIKET%20SAHGAL&fontSize=60&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20ENGINEER&descSize=18&descColor=00E5FF&descAlignY=60&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,25:171044,60:075985,100:070B18&height=260&section=header&text=ANIKET%20SAHGAL&fontSize=60&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20ENGINEER&descSize=18&descColor=00E5FF&descAlignY=60&animation=twinkling" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Web+Developer;I+build+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Curious+Mind.+Creative+Builder.+Lifelong+Learner." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Web+Developer;I+build+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Curious+Mind.+Creative+Builder.+Lifelong+Learner." alt="Animated introduction" />
 
 <br/><br/>
 
@@ -101,14 +105,14 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <h3>01 · FRONTEND DEVELOPMENT</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
 </td>
 <td align="center" width="50%">
 
 <h3>02 · BACKEND DEVELOPMENT</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 </td>
 </tr>
@@ -118,14 +122,14 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <h3>03 · DATABASES</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
 </td>
 <td align="center" width="50%">
 
 <h3>04 · TOOLS & WORKFLOW</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </td>
 </tr>
@@ -151,38 +155,25 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <div align="center">
 
-<!-- IMPORTANT:
-     Every project image uses:
-     width="100%"
-     height="220"
-     All project columns use width="50%"
--->
-
-<table width="100%" cellpadding="8" cellspacing="8">
+<table>
 
 <!-- ================= PROJECTS 01 & 02 ================= -->
 
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<!-- PROJECT 01 : WEATHER FORECAST -->
+
+<td width="50%" align="center">
 <a href="https://weather-forecast-omega-dusky.vercel.app/">
-<img
-src="./assets/project-weather.svg"
-width="100%"
-height="220"
-alt="Weather Forecast project card"
-/>
+<img src="./assets/project-weather.svg" width="100%" alt="Weather Forecast project card"/>
 </a>
 </td>
 
-<td width="50%" align="center" valign="middle">
+<!-- PROJECT 02 : FOOD RECIPE -->
+
+<td width="50%" align="center">
 <a href="https://sehgal1001.github.io/Food_Recipie/">
-<img
-src="./assets/project-recipe.svg"
-width="100%"
-height="220"
-alt="Food Recipe project card"
-/>
+<img src="./assets/project-recipe.svg" width="100%" alt="Food Recipe project card"/>
 </a>
 </td>
 
@@ -192,25 +183,19 @@ alt="Food Recipe project card"
 
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<!-- PROJECT 03 : SCIENTIFIC CALCULATOR -->
+
+<td width="50%" align="center">
 <a href="https://sehgal1001.github.io/scientific-calculator/">
-<img
-src="./assets/project-calculator.svg"
-width="100%"
-height="220"
-alt="Scientific Calculator project card"
-/>
+<img src="./assets/project-calculator.svg" width="100%" alt="Scientific Calculator project card"/>
 </a>
 </td>
 
-<td width="50%" align="center" valign="middle">
+<!-- PROJECT 04 : ULTIMATE TIC TAC TOE -->
+
+<td width="50%" align="center">
 <a href="https://sehgal1001.github.io/ultimate-tic-tac-toe/">
-<img
-src="./assets/project-tictactoe.svg"
-width="100%"
-height="220"
-alt="Ultimate Tic Tac Toe project card"
-/>
+<img src="./assets/project-tictactoe.svg" width="100%" alt="Ultimate Tic Tac Toe project card"/>
 </a>
 </td>
 
@@ -220,25 +205,19 @@ alt="Ultimate Tic Tac Toe project card"
 
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<!-- PROJECT 05 : PERSONAL PORTFOLIO -->
+
+<td width="50%" align="center">
 <a href="https://sehgal1001.github.io/Portfolio/">
-<img
-src="./assets/project-portfolio.svg"
-width="100%"
-height="220"
-alt="Aniket Sahgal - Personal Portfolio"
-/>
+<img src="./assets/project-portfolio.svg" width="100%" alt="Aniket Sahgal - Personal Portfolio"/>
 </a>
 </td>
 
-<td width="50%" align="center" valign="middle">
+<!-- PROJECT 06 : PREMIUM SUDOKU GAME -->
+
+<td width="50%" align="center">
 <a href="https://sehgal1001.github.io/premium-sudoku-game/">
-<img
-src="./assets/project-sudoku.svg"
-width="100%"
-height="220"
-alt="Premium Sudoku Game project card"
-/>
+<img src="./assets/project-sudoku.svg" width="100%" alt="Premium Sudoku Game project card"/>
 </a>
 </td>
 
@@ -248,25 +227,19 @@ alt="Premium Sudoku Game project card"
 
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<!-- PROJECT 07 : AI CHATBOT -->
+
+<td width="50%" align="center">
 <a href="https://chatbot-aniket.vercel.app/">
-<img
-src="./assets/project-chatbot.svg"
-width="100%"
-height="220"
-alt="AI Chatbot project card"
-/>
+<img src="./assets/project-chatbot.svg" width="100%" alt="AI Chatbot project card"/>
 </a>
 </td>
 
-<td width="50%" align="center" valign="middle">
+<!-- PROJECT 08 : EXAMPRO -->
+
+<td width="50%" align="center">
 <a href="https://sehgal1001.github.io/ExamPro/">
-<img
-src="./assets/project-exampro.svg"
-width="100%"
-height="220"
-alt="ExamPro project card"
-/>
+<img src="./assets/project-exampro.svg" width="100%" alt="ExamPro project card"/>
 </a>
 </td>
 
@@ -276,18 +249,15 @@ alt="ExamPro project card"
 
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<!-- PROJECT 09 : PYTHON HEART ANIMATION -->
+
+<td width="50%" align="center">
 <a href="https://sehgal1001.github.io/python-heart-animation/">
-<img
-src="./assets/project-python-heart.svg"
-width="100%"
-height="220"
-alt="Python Heart Animation project card"
-/>
+<img src="./assets/project-python-heart.svg" width="100%" alt="Python Heart Animation project card"/>
 </a>
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 </td>
 
 </tr>
@@ -301,7 +271,6 @@ alt="Python Heart Animation project card"
 </a>
 
 <br/><br/>
-
 <b>✦ PLAN · BUILD · TEST · IMPROVE ✦</b>
 
 </div>

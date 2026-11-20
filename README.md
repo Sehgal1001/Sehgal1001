@@ -156,6 +156,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <div align="center">
 
 <table>
+
+<!-- ================= PROJECTS 01 & 02 ================= -->
+
 <tr>
 
 <!-- PROJECT 01 : WEATHER FORECAST -->
@@ -175,6 +178,8 @@ I like working across the frontend and backend — from shaping a clean interfac
 </td>
 
 </tr>
+
+<!-- ================= PROJECTS 03 & 04 ================= -->
 
 <tr>
 
@@ -196,29 +201,18 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 </tr>
 
-<!-- PROJECT 06 : PREMIUM SUDOKU GAME -->
+<!-- ================= PROJECTS 05 & 06 ================= -->
 
 <tr>
-<td colspan="2" align="center">
-<a href="https://sehgal1001.github.io/premium-sudoku-game/">
-<img src="./assets/project-sudoku.svg" width="78%" alt="Premium Sudoku Game project card"/>
-</a>
-<br/>
-<a href="https://github.com/Sehgal1001/premium-sudoku-game">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-17152D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-</td>
-</tr>
 
 <!-- PROJECT 05 : PERSONAL PORTFOLIO -->
 
-<tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/Portfolio/">
 <img
 src="./assets/project-portfolio.svg"
-width="78%"
+width="100%"
 alt="Aniket Sahgal - Personal Portfolio"
 />
 </a>
@@ -230,6 +224,31 @@ alt="Aniket Sahgal - Personal Portfolio"
 </a>
 
 </td>
+
+<!-- PROJECT 06 : PREMIUM SUDOKU GAME -->
+
+<td width="50%" align="center">
+
+<a href="https://sehgal1001.github.io/premium-sudoku-game/">
+<img
+src="./assets/project-sudoku.svg"
+width="100%"
+alt="Premium Sudoku Game project card"
+/>
+</a>
+
+<br/>
+
+<a href="https://sehgal1001.github.io/premium-sudoku-game/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-17152D?style=for-the-badge&logo=googlechrome&logoColor=00E5FF"/>
+</a>
+
+<a href="https://github.com/Sehgal1001/premium-sudoku-game">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-17152D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+
+</td>
+
 </tr>
 
 <!-- ================= PROJECTS 07 & 08 ================= -->
@@ -282,9 +301,11 @@ alt="ExamPro project card"
 
 </tr>
 
-<!-- ================= PROJECT 09 : PYTHON HEART ================= -->
+<!-- ================= PROJECT 09 ================= -->
 
 <tr>
+
+<!-- PROJECT 09 : PYTHON HEART ANIMATION -->
 
 <td width="50%" align="center">
 

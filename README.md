@@ -232,15 +232,18 @@ alt="Aniket Sahgal - Personal Portfolio"
 </td>
 </tr>
 
-<!-- PROJECT 07 : AI CHATBOT -->
+<!-- ================= PROJECTS 07 & 08 ================= -->
 
 <tr>
-<td colspan="2" align="center">
+
+<!-- PROJECT 07 : AI CHATBOT -->
+
+<td width="50%" align="center">
 
 <a href="https://chatbot-aniket.vercel.app/">
 <img
 src="./assets/project-chatbot.svg"
-width="78%"
+width="100%"
 alt="AI Chatbot project card"
 />
 </a>
@@ -252,17 +255,15 @@ alt="AI Chatbot project card"
 </a>
 
 </td>
-</tr>
 
 <!-- PROJECT 08 : EXAMPRO -->
 
-<tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/ExamPro/">
 <img
 src="./assets/project-exampro.svg"
-width="78%"
+width="100%"
 alt="ExamPro project card"
 />
 </a>
@@ -278,17 +279,19 @@ alt="ExamPro project card"
 </a>
 
 </td>
+
 </tr>
 
-<!-- PROJECT 09 : PYTHON HEART ANIMATION -->
+<!-- ================= PROJECT 09 : PYTHON HEART ================= -->
 
 <tr>
-<td colspan="2" align="center">
+
+<td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/python-heart-animation/">
 <img
 src="./assets/project-python-heart.svg"
-width="78%"
+width="100%"
 alt="Python Heart Animation project card"
 />
 </a>
@@ -304,6 +307,10 @@ alt="Python Heart Animation project card"
 </a>
 
 </td>
+
+<td width="50%" align="center">
+</td>
+
 </tr>
 
 </table>

@@ -208,45 +208,17 @@ I like working across the frontend and backend — from shaping a clean interfac
 <!-- PROJECT 05 : PERSONAL PORTFOLIO -->
 
 <td width="50%" align="center">
-
 <a href="https://sehgal1001.github.io/Portfolio/">
-<img
-src="./assets/project-portfolio.svg"
-width="100%"
-alt="Aniket Sahgal - Personal Portfolio"
-/>
+<img src="./assets/project-portfolio.svg" width="100%" alt="Aniket Sahgal - Personal Portfolio"/>
 </a>
-
-<br/>
-
-<a href="https://sehgal1001.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/VISIT_LIVE_PORTFOLIO-17152D?style=for-the-badge&logo=googlechrome&logoColor=00E5FF"/>
-</a>
-
 </td>
 
 <!-- PROJECT 06 : PREMIUM SUDOKU GAME -->
 
 <td width="50%" align="center">
-
 <a href="https://sehgal1001.github.io/premium-sudoku-game/">
-<img
-src="./assets/project-sudoku.svg"
-width="100%"
-alt="Premium Sudoku Game project card"
-/>
+<img src="./assets/project-sudoku.svg" width="100%" alt="Premium Sudoku Game project card"/>
 </a>
-
-<br/>
-
-<a href="https://sehgal1001.github.io/premium-sudoku-game/">
-<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-17152D?style=for-the-badge&logo=googlechrome&logoColor=00E5FF"/>
-</a>
-
-<a href="https://github.com/Sehgal1001/premium-sudoku-game">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-17152D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
 </td>
 
 </tr>
@@ -258,45 +230,17 @@ alt="Premium Sudoku Game project card"
 <!-- PROJECT 07 : AI CHATBOT -->
 
 <td width="50%" align="center">
-
 <a href="https://chatbot-aniket.vercel.app/">
-<img
-src="./assets/project-chatbot.svg"
-width="100%"
-alt="AI Chatbot project card"
-/>
+<img src="./assets/project-chatbot.svg" width="100%" alt="AI Chatbot project card"/>
 </a>
-
-<br/>
-
-<a href="https://chatbot-aniket.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_CHATBOT-17152D?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
-</a>
-
 </td>
 
 <!-- PROJECT 08 : EXAMPRO -->
 
 <td width="50%" align="center">
-
 <a href="https://sehgal1001.github.io/ExamPro/">
-<img
-src="./assets/project-exampro.svg"
-width="100%"
-alt="ExamPro project card"
-/>
+<img src="./assets/project-exampro.svg" width="100%" alt="ExamPro project card"/>
 </a>
-
-<br/>
-
-<a href="https://sehgal1001.github.io/ExamPro/">
-<img src="https://img.shields.io/badge/VISIT_LIVE_EXAMPRO-17152D?style=for-the-badge&logo=googlechrome&logoColor=00E5FF"/>
-</a>
-
-<a href="https://github.com/Sehgal1001/ExamPro">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-17152D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
 </td>
 
 </tr>
@@ -308,25 +252,9 @@ alt="ExamPro project card"
 <!-- PROJECT 09 : PYTHON HEART ANIMATION -->
 
 <td width="50%" align="center">
-
 <a href="https://sehgal1001.github.io/python-heart-animation/">
-<img
-src="./assets/project-python-heart.svg"
-width="100%"
-alt="Python Heart Animation project card"
-/>
+<img src="./assets/project-python-heart.svg" width="100%" alt="Python Heart Animation project card"/>
 </a>
-
-<br/>
-
-<a href="https://sehgal1001.github.io/python-heart-animation/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_ANIMATION-17152D?style=for-the-badge&logo=googlechrome&logoColor=FF4B9B"/>
-</a>
-
-<a href="https://github.com/Sehgal1001/python-heart-animation">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-17152D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
 </td>
 
 <td width="50%" align="center">

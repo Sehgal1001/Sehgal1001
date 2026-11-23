@@ -245,7 +245,7 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 </tr>
 
-<!-- ================= PROJECT 09 ================= -->
+<!-- ================= PROJECTS 09 & 10 ================= -->
 
 <tr>
 
@@ -254,6 +254,26 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/python-heart-animation/">
 <img src="./assets/project-python-heart.svg" width="100%" alt="Python Heart Animation project card"/>
+</a>
+</td>
+
+<!-- PROJECT 10 : FINTRACK PERSONAL FINANCE -->
+
+<td width="50%" align="center">
+<a href="https://sehgal1001.github.io/FinTrack-Personal-Finance-Tracker/">
+<img src="./assets/project-fintrack.svg" width="100%" alt="FinTrack Personal Finance project card"/>
+</a>
+</td>
+
+</tr>
+
+<!-- ================= PROJECT 11 : EDUSPHERE ERP ================= -->
+
+<tr>
+
+<td width="50%" align="center">
+<a href="https://sehgal1001.github.io/EduSphere-Smart-School-Management-System/">
+<img src="./assets/project-edusphere.svg" width="100%" alt="EduSphere Smart School Management System project card"/>
 </a>
 </td>
 

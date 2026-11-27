@@ -1,9 +1,11 @@
 <!-- ========================================================= -->
 <!--             ANIKET SAHGAL | GITHUB PROFILE                 -->
-<!--       PREMIUM NEON DEVELOPER PROFILE + PROJECT TRAY         -->
+<!--       PREMIUM NEON DEVELOPER PROFILE + PROJECT SHOWCASE     -->
 <!-- ========================================================= -->
 
 <div align="center">
+
+<!-- ================= PROFESSIONAL BANNER ================= -->
 
 <img src="./assets/developer-banner.webp" width="100%" alt="Aniket Sahgal Developer Banner"/>
 
@@ -147,7 +149,7 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 ---
 
-<!-- ================= PROJECT TRAY ================= -->
+<!-- ================= PROJECT SHOWCASE ================= -->
 
 <h2 align="center">🚀 THE PROJECT TRAY</h2>
 
@@ -157,7 +159,7 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
 
 <!-- PROJECT 01 : WEATHER FORECAST -->
@@ -165,7 +167,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://weather-forecast-omega-dusky.vercel.app/">
+
 <img src="./assets/project-weather.svg" width="100%" alt="Weather Forecast Project"/>
+
 </a>
 
 </td>
@@ -175,7 +179,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/Food_Recipie/">
+
 <img src="./assets/project-recipe.svg" width="100%" alt="Food Recipe Project"/>
+
 </a>
 
 </td>
@@ -189,7 +195,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/scientific-calculator/">
+
 <img src="./assets/project-calculator.svg" width="100%" alt="Scientific Calculator Project"/>
+
 </a>
 
 </td>
@@ -199,7 +207,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/ultimate-tic-tac-toe/">
+
 <img src="./assets/project-tictactoe.svg" width="100%" alt="Ultimate Tic Tac Toe Project"/>
+
 </a>
 
 </td>
@@ -213,7 +223,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/premium-sudoku-game/">
+
 <img src="./assets/project-sudoku.svg" width="100%" alt="Premium Sudoku Game Project"/>
+
 </a>
 
 </td>
@@ -223,7 +235,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/Portfolio/">
+
 <img src="./assets/project-portfolio.svg" width="100%" alt="Personal Portfolio Project"/>
+
 </a>
 
 </td>
@@ -237,7 +251,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://chatbot-aniket.vercel.app/">
+
 <img src="./assets/project-chatbot.svg" width="100%" alt="AI Chatbot Project"/>
+
 </a>
 
 </td>
@@ -247,7 +263,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/ExamPro/">
-<img src="./assets/project-exampro.svg" width="100%" alt="ExamPro Online Examination Project"/>
+
+<img src="./assets/project-exampro.svg" width="100%" alt="ExamPro Online Examination Platform"/>
+
 </a>
 
 </td>
@@ -261,7 +279,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/python-heart-animation/">
+
 <img src="./assets/project-python-heart.svg" width="100%" alt="Python Heart Animation Project"/>
+
 </a>
 
 </td>
@@ -271,7 +291,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://github.com/Sehgal1001">
+
 <img src="./assets/project-fintrack.svg" width="100%" alt="FinTrack Personal Finance Project"/>
+
 </a>
 
 </td>
@@ -285,7 +307,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://github.com/Sehgal1001">
+
 <img src="./assets/project-edusphere.svg" width="100%" alt="School ERP Management Project"/>
+
 </a>
 
 </td>
@@ -295,7 +319,9 @@ I like working across the frontend and backend — from shaping a clean interfac
 <td width="50%" align="center">
 
 <a href="https://sehgal1001.github.io/Crystalized-Ball-Interactive-Particle-Sphere/">
+
 <img src="./assets/project-crystalized-sphere.svg" width="100%" alt="Crystalized Interactive Particle Sphere Project"/>
+
 </a>
 
 </td>
@@ -328,11 +354,15 @@ I like working across the frontend and backend — from shaping a clean interfac
 <div align="center">
 
 <a href="https://github.com/Sehgal1001">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sehgal1001&show_icons=true&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF&icon_color=9B75FF&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sehgal1001&show_icons=true&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF&icon_color=9B75FF&rank_icon=github" alt="Aniket's GitHub Statistics"/>
+
 </a>
 
 <a href="https://github.com/Sehgal1001">
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF" alt="Most Used Languages"/>
+
 </a>
 
 <br/><br/>
@@ -349,7 +379,10 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="GitHub Contribution Activity Graph"/>
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"
+alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
@@ -361,7 +394,10 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img
+src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub Contribution Snake Animation"/>
 
 </div>
 
@@ -380,7 +416,7 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 ```bash
 ╭────────────────────────────────────────────╮
-│              ANIKET'S TERMINAL            │
+│             ANIKET'S TERMINAL            │
 ╰────────────────────────────────────────────╯
 
 $ whoami
@@ -400,6 +436,3 @@ $ databases
 
 $ toolkit
 > Git | GitHub | VS Code | Postman
-
-$ current_focus
-> Learning

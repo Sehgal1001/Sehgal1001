@@ -214,16 +214,16 @@ I like working across the frontend and backend — from shaping a clean interfac
 </td>
 
 <td width="50%" align="center">
-<a href="https://sehgal1001.github.io/FinTrack-Personal-Finance-Tracker/">
-<img src="./assets/project-fintrack.svg" width="100%" alt="FinTrack Personal Finance project card"/>
+<a href="https://github.com/Sehgal1001">
+<img src="./assets/project-fintrack.svg" width="100%" alt="FinTrack Personal Finance Tracker project card"/>
 </a>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-<a href="https://sehgal1001.github.io/EduSphere-Smart-School-Management-System/">
-<img src="./assets/project-edusphere.svg" width="100%" alt="EduSphere School Management System project card"/>
+<a href="https://github.com/Sehgal1001">
+<img src="./assets/project-edusphere.svg" width="100%" alt="School ERP Management System project card"/>
 </a>
 </td>
 
@@ -243,6 +243,7 @@ I like working across the frontend and backend — from shaping a clean interfac
 </a>
 
 <br/><br/>
+
 <b>✦ PLAN · BUILD · TEST · IMPROVE ✦</b>
 
 </div>
@@ -260,44 +261,15 @@ I like working across the frontend and backend — from shaping a clean interfac
 <div align="center">
 
 <a href="https://github.com/Sehgal1001">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sehgal1001&show_icons=true&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF&icon_color=9B75FF&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sehgal1001&show_icons=true&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF&icon_color=9B75FF&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/Sehgal1001">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
 <img
 height="180"
-src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF"
-alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"
-alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-
-<img
-src="https://
+src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire

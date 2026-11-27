@@ -370,7 +370,6 @@ I like working across the frontend and backend — from shaping a clean interfac
 <img width="72%" src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF" alt="GitHub Contribution Streak"/>
 
 </div>
-
 ---
 
 <!-- ================= CONTRIBUTION ACTIVITY GRAPH ================= -->
@@ -380,9 +379,10 @@ I like working across the frontend and backend — from shaping a clean interfac
 <div align="center">
 
 <img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"
-alt="GitHub Contribution Activity Graph"/>
+  width="100%"
+  src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Sehgal1001&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub Contribution Activity Graph"
+/>
 
 </div>
 

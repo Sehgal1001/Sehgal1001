@@ -370,7 +370,6 @@ I like working across the frontend and backend — from shaping a clean interfac
 <img width="72%" src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF" alt="GitHub Contribution Streak"/>
 
 </div>
----
 
 <!-- ================= CONTRIBUTION ACTIVITY GRAPH ================= -->
 
@@ -417,9 +416,9 @@ alt="GitHub Contribution Snake Animation"/>
 <div align="center">
 
 ```bash
-╭────────────────────────────────────────────────────────────╮
-│              ANIKET'S DEVELOPER TERMINAL                 │
-╰────────────────────────────────────────────────────────────╯
+   ╭────────────────────────────────────────────────────────────╮
+   │                ANIKET'S DEVELOPER TERMINAL                 │
+   ╰────────────────────────────────────────────────────────────╯
 
 $ whoami
 > Aniket Sahgal

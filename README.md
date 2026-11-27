@@ -414,13 +414,46 @@ alt="GitHub Contribution Snake Animation"/>
 
 </div>
 
+<div align="center">
+
 ```bash
-╭────────────────────────────────────────────╮
-│             ANIKET'S TERMINAL            │
-╰────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│              ANIKET'S DEVELOPER TERMINAL                 │
+╰────────────────────────────────────────────────────────────╯
 
 $ whoami
 > Aniket Sahgal
 
 $ role
-> Full Stack Developer | C
+> Full Stack Developer | CSE Student
+
+$ frontend
+> HTML | CSS | JavaScript | React
+
+$ backend
+> Node.js | Express.js
+
+$ database
+> MongoDB | MySQL
+
+$ programming
+> C++ | JavaScript
+
+$ tools
+> Git | GitHub | VS Code | Postman
+
+$ currently
+> Building projects
+> Learning new technologies
+> Improving problem-solving skills
+
+$ goal
+> Build meaningful software
+> Become a better developer every day
+
+$ status
+> ● ONLINE
+> ● OPEN TO LEARNING
+> ● READY TO BUILD
+
+╰─── Thanks for visiting my profile! 🚀

@@ -1,4 +1,3 @@
-
 <!-- ========================================================= -->
 <!--             ANIKET SAHGAL | GITHUB PROFILE                 -->
 <!--       PREMIUM NEON DEVELOPER PROFILE + 3D PROJECT TRAY      -->
@@ -161,15 +160,11 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 
-<!-- PROJECT 01 : WEATHER FORECAST -->
-
 <td width="50%" align="center">
 <a href="https://weather-forecast-omega-dusky.vercel.app/">
 <img src="./assets/project-weather.svg" width="100%" alt="Weather Forecast project card"/>
 </a>
 </td>
-
-<!-- PROJECT 02 : FOOD RECIPE -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/Food_Recipie/">
@@ -183,15 +178,11 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 
-<!-- PROJECT 03 : SCIENTIFIC CALCULATOR -->
-
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/scientific-calculator/">
 <img src="./assets/project-calculator.svg" width="100%" alt="Scientific Calculator project card"/>
 </a>
 </td>
-
-<!-- PROJECT 04 : ULTIMATE TIC TAC TOE -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/ultimate-tic-tac-toe/">
@@ -205,15 +196,11 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 
-<!-- PROJECT 05 : PERSONAL PORTFOLIO -->
-
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/Portfolio/">
-<img src="./assets/project-portfolio.svg" width="100%" alt="Aniket Sahgal - Personal Portfolio"/>
+<img src="./assets/project-portfolio.svg" width="100%" alt="Personal Portfolio project card"/>
 </a>
 </td>
-
-<!-- PROJECT 06 : PREMIUM SUDOKU GAME -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/premium-sudoku-game/">
@@ -227,15 +214,11 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 
-<!-- PROJECT 07 : AI CHATBOT -->
-
 <td width="50%" align="center">
 <a href="https://chatbot-aniket.vercel.app/">
 <img src="./assets/project-chatbot.svg" width="100%" alt="AI Chatbot project card"/>
 </a>
 </td>
-
-<!-- PROJECT 08 : EXAMPRO -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/ExamPro/">
@@ -249,15 +232,11 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 
-<!-- PROJECT 09 : PYTHON HEART ANIMATION -->
-
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/python-heart-animation/">
 <img src="./assets/project-python-heart.svg" width="100%" alt="Python Heart Animation project card"/>
 </a>
 </td>
-
-<!-- PROJECT 10 : FINTRACK PERSONAL FINANCE -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/FinTrack-Personal-Finance-Tracker/">
@@ -271,15 +250,11 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 
-<!-- PROJECT 11 : EDUSPHERE ERP -->
-
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/EduSphere-Smart-School-Management-System/">
 <img src="./assets/project-edusphere.svg" width="100%" alt="EduSphere Smart School Management System project card"/>
 </a>
 </td>
-
-<!-- PROJECT 12 : CRYSTALIZED BALL PARTICLE SPHERE -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/Crystalized-Ball-Interactive-Particle-Sphere/">
@@ -324,7 +299,11 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <br/><br/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
+<img
+  height="180"
+  src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
@@ -336,7 +315,11 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"/>
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"
+  alt="GitHub Contribution Activity Graph"
+/>
 
 </div>
 
@@ -348,7 +331,11 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+<img
+  src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub contribution snake animation"
+/>
 
 </div>
 
@@ -371,77 +358,3 @@ I like working across the frontend and backend — from shaping a clean interfac
 ╰────────────────────────────────────────────╯
 
 $ whoami
-> Aniket Sahgal
-
-$ role
-> Full Stack Developer | CSE Student
-
-$ frontend
-> HTML | CSS | JavaScript | React
-
-$ backend
-> Node.js | Express.js
-
-$ databases
-> MongoDB | MySQL
-
-$ toolkit
-> Git | GitHub | VS Code | Postman
-
-$ current_focus
-> Learning, building and improving.
-
-$ philosophy
-> Write clean code. Solve real problems.
-```
-
----
-
-<!-- ================= CONNECT ================= -->
-
-<h2 align="center">🤝 LET'S CONNECT</h2>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:00E5FF&height=3" width="55%"/>
-
-<h3>Have an idea or want to build something together?</h3>
-
-<p>
-I'm happy to connect with fellow developers, exchange ideas,
-learn from others, and collaborate on meaningful projects.
-</p>
-
-<br/>
-
-<a href="https://github.com/Sehgal1001">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aniket-sahgal-297a67276">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<b>✦ CONNECT · COLLABORATE · GROW ✦</b>
-
-</div>
-
----
-
-<!-- ================= FOOTER ================= -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,30:171044,70:075985,100:070B18&height=155&section=footer&animation=twinkling"/>
-
-<h3>BUILD. CREATE. INNOVATE.</h3>
-
-<b>Thanks for visiting my GitHub profile! 💜</b>
-
-<br/>
-
-<sub>Designed and crafted by Aniket Sahgal.</sub>
-
-</div>

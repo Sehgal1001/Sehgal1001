@@ -166,7 +166,7 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <td width="50%" align="center">
 
-<a href="https://weather-forecast-omega-dusky.vercel.app/">
+<a href="https://sehgal1001.github.io/weather-forecast/">
 <img src="./assets/project-weather.svg" width="100%" alt="Weather Forecast Project"/>
 </a>
 

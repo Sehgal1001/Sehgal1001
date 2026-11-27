@@ -267,9 +267,11 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 </tr>
 
-<!-- ================= PROJECT 11 : EDUSPHERE ERP ================= -->
+<!-- ================= PROJECTS 11 & 12 ================= -->
 
 <tr>
+
+<!-- PROJECT 11 : EDUSPHERE ERP -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/EduSphere-Smart-School-Management-System/">
@@ -277,7 +279,12 @@ I like working across the frontend and backend — from shaping a clean interfac
 </a>
 </td>
 
+<!-- PROJECT 12 : CRYSTALIZED BALL PARTICLE SPHERE -->
+
 <td width="50%" align="center">
+<a href="https://sehgal1001.github.io/Crystalized-Ball-Interactive-Particle-Sphere/">
+<img src="./assets/project-crystalized-sphere.svg" width="100%" alt="Crystalized Ball Interactive Particle Sphere project card"/>
+</a>
 </td>
 
 </tr>

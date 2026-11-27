@@ -5,19 +5,15 @@
 
 <div align="center">
 
-<img
-  src="./assets/developer-banner.webp"
-  width="100%"
-  alt="Aniket Sahgal - Professional Developer Workspace"
-/>
+<img src="./assets/developer-banner.webp" width="100%" alt="Aniket Sahgal Developer Banner"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,25:171044,60:075985,100:070B18&height=260&section=header&text=ANIKET%20SAHGAL&fontSize=60&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20ENGINEER&descSize=18&descColor=00E5FF&descAlignY=60&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,25:171044,60:075985,100:070B18&height=260&section=header&text=ANIKET%20SAHGAL&fontSize=60&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20ENGINEER&descSize=18&descColor=00E5FF&descAlignY=60&animation=twinkling"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Web+Developer;I+build+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Curious+Mind.+Creative+Builder.+Lifelong+Learner." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Web+Developer;I+build+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Curious+Mind.+Creative+Builder.+Lifelong+Learner." alt="Animated introduction"/>
 
 <br/><br/>
 
@@ -31,8 +27,6 @@
 </div>
 
 ---
-
-<!-- ================= ABOUT ================= -->
 
 <h2 align="center">✦ A LITTLE ABOUT ME</h2>
 
@@ -84,8 +78,6 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-
 <h2 align="center">⚡ TECH STACK & TOOLKIT</h2>
 
 <p align="center">
@@ -102,14 +94,14 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <h3>01 · FRONTEND DEVELOPMENT</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
 
 </td>
 <td align="center" width="50%">
 
 <h3>02 · BACKEND DEVELOPMENT</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
 </td>
 </tr>
@@ -119,14 +111,14 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <h3>03 · DATABASES</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
 </td>
 <td align="center" width="50%">
 
 <h3>04 · TOOLS & WORKFLOW</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
 </td>
 </tr>
@@ -141,8 +133,6 @@ I like working across the frontend and backend — from shaping a clean interfac
 </div>
 
 ---
-
-<!-- ================= PROJECT TRAY ================= -->
 
 <h2 align="center">🚀 THE PROJECT TRAY</h2>
 
@@ -248,7 +238,6 @@ I like working across the frontend and backend — from shaping a clean interfac
 </td>
 
 </tr>
-
 </table>
 
 <br/>
@@ -265,8 +254,6 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 ---
 
-<!-- ================= GITHUB DASHBOARD ================= -->
-
 <h2 align="center">📊 GITHUB DASHBOARD</h2>
 
 <p align="center">
@@ -276,59 +263,46 @@ I like working across the frontend and backend — from shaping a clean interfac
 <div align="center">
 
 <a href="https://github.com/Sehgal1001">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sehgal1001&show_icons=true&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF&icon_color=9B75FF&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sehgal1001&show_icons=true&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF&icon_color=9B75FF&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/Sehgal1001">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF" alt="Most Used Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
-<img
-  height="180"
-  width="72%"
-  src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF"
-  alt="GitHub Contribution Streak"
-/>
+<img width="72%" height="180" src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
-
-<!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
 <h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"
-  width="100%"
-  alt="GitHub Contribution Activity Graph"
-/>
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"
+alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
 ---
-
-<!-- ================= CONTRIBUTION SNAKE ================= -->
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
-/>
+width="100%"
+src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub contribution snake animation"/>
 
 </div>
 
 ---
-
-<!-- ================= DEVELOPER TERMINAL ================= -->
 
 <h2 align="center">⌨️ DEVELOPER TERMINAL</h2>
 
@@ -366,4 +340,4 @@ $ current_focus
 > Learning, building and improving.
 
 $ philosophy
-> Write clean code.
+> Write clean code. Solve real problems.

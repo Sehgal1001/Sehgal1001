@@ -389,3 +389,59 @@ $ toolkit
 
 $ current_focus
 > Learning, building and improving
+
+
+---
+
+<!-- ================= CONNECT WITH ME ================= -->
+
+<h2 align="center">🤝 CONNECT WITH ME</h2>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:00E5FF&height=3&section=header" width="55%"/>
+
+<h3>Have an idea or want to build something together?</h3>
+
+<p>
+I'm happy to connect with fellow developers, exchange ideas,
+learn from others, and collaborate on meaningful projects.
+</p>
+
+<br/>
+
+<a href="https://github.com/Sehgal1001">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aniket-sahgal-297a67276">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<b>✦ CONNECT · COLLABORATE · GROW ✦</b>
+
+</div>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,30:171044,70:075985,100:070B18&height=155&section=footer&animation=twinkling"/>
+
+<h3>BUILD. CREATE. INNOVATE.</h3>
+
+<b>Thanks for visiting my GitHub profile! 💜</b>
+
+<br/>
+
+<sub>Designed and crafted by Aniket Sahgal.</sub>
+
+</div>

@@ -1,34 +1,19 @@
+<!-- ================= CONTRIBUTION SNAKE ================= -->
 
-name: Generate Contribution Snake
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+<div align="center">
 
-permissions:
-  contents: write
+<p>
+<i>Watch the snake travel through my GitHub contribution activity.</i>
+</p>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+<img
+  src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Animated GitHub contribution snake"
+/>
 
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Sehgal1001
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+</div>
 
-      - name: Publish Snake
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          force_orphan: true
+---

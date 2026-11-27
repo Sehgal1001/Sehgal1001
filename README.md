@@ -5,15 +5,21 @@
 
 <div align="center">
 
-<img src="./assets/developer-banner.webp" width="100%" alt="Aniket Sahgal - Professional Developer Workspace"/>
+<!-- ================= PROFESSIONAL HD IMAGE BANNER ================= -->
+
+<img
+  src="./assets/developer-banner.webp"
+  width="100%"
+  alt="Aniket Sahgal - Professional Developer Workspace"
+/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,25:171044,60:075985,100:070B18&height=260&section=header&text=ANIKET%20SAHGAL&fontSize=60&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20ENGINEER&descSize=18&descColor=00E5FF&descAlignY=60&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,25:171044,60:075985,100:070B18&height=260&section=header&text=ANIKET%20SAHGAL&fontSize=60&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20ENGINEER&descSize=18&descColor=00E5FF&descAlignY=60&animation=twinkling" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Web+Developer;I+build+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Curious+Mind.+Creative+Builder.+Lifelong+Learner." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Aniket+Sahgal+%F0%9F%91%8B;Full+Stack+Web+Developer;I+build+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Curious+Mind.+Creative+Builder.+Lifelong+Learner." alt="Animated introduction" />
 
 <br/><br/>
 
@@ -53,19 +59,16 @@ I like working across the frontend and backend — from shaping a clean interfac
 <b>Design</b>
 <br/><sub>Clear, responsive interfaces</sub>
 </td>
-
 <td align="center" width="25%">
 <h3>⚙️</h3>
 <b>Develop</b>
 <br/><sub>Useful web applications</sub>
 </td>
-
 <td align="center" width="25%">
 <h3>🧩</h3>
 <b>Problem Solve</b>
 <br/><sub>Thoughtful solutions</sub>
 </td>
-
 <td align="center" width="25%">
 <h3>🌱</h3>
 <b>Keep Learning</b>
@@ -97,43 +100,37 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <table>
 <tr>
-
 <td align="center" width="50%">
 
 <h3>01 · FRONTEND DEVELOPMENT</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
 </td>
-
 <td align="center" width="50%">
 
 <h3>02 · BACKEND DEVELOPMENT</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="50%">
 
 <h3>03 · DATABASES</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
 </td>
-
 <td align="center" width="50%">
 
 <h3>04 · TOOLS & WORKFLOW</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </td>
-
 </tr>
 </table>
 
@@ -147,7 +144,7 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 ---
 
-<!-- ================= PROJECT TRAY ================= -->
+<!-- ================= 3D PROJECT TRAY ================= -->
 
 <h2 align="center">🚀 THE PROJECT TRAY</h2>
 
@@ -158,14 +155,17 @@ I like working across the frontend and backend — from shaping a clean interfac
 <div align="center">
 
 <table>
-
 <tr>
+
+<!-- PROJECT 01 : WEATHER FORECAST -->
 
 <td width="50%" align="center">
 <a href="https://weather-forecast-omega-dusky.vercel.app/">
 <img src="./assets/project-weather.svg" width="100%" alt="Weather Forecast project card"/>
 </a>
 </td>
+
+<!-- PROJECT 02 : FOOD RECIPE -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/Food_Recipie/">
@@ -177,11 +177,15 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 
+<!-- PROJECT 03 : SCIENTIFIC CALCULATOR -->
+
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/scientific-calculator/">
 <img src="./assets/project-calculator.svg" width="100%" alt="Scientific Calculator project card"/>
 </a>
 </td>
+
+<!-- PROJECT 04 : ULTIMATE TIC TAC TOE -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/ultimate-tic-tac-toe/">
@@ -193,11 +197,7 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 
-<td width="50%" align="center">
-<a href="https://sehgal1001.github.io/Portfolio/">
-<img src="./assets/project-portfolio.svg" width="100%" alt="Personal Portfolio project card"/>
-</a>
-</td>
+<!-- PROJECT 05 : PREMIUM SUDOKU -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/premium-sudoku-game/">
@@ -205,15 +205,27 @@ I like working across the frontend and backend — from shaping a clean interfac
 </a>
 </td>
 
+<!-- PROJECT 06 : PERSONAL PORTFOLIO -->
+
+<td width="50%" align="center">
+<a href="https://sehgal1001.github.io/Portfolio/">
+<img src="./assets/project-portfolio.svg" width="100%" alt="Personal Portfolio project card"/>
+</a>
+</td>
+
 </tr>
 
 <tr>
+
+<!-- PROJECT 07 : AI CHATBOT -->
 
 <td width="50%" align="center">
 <a href="https://chatbot-aniket.vercel.app/">
 <img src="./assets/project-chatbot.svg" width="100%" alt="AI Chatbot project card"/>
 </a>
 </td>
+
+<!-- PROJECT 08 : EXAMPRO -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/ExamPro/">
@@ -225,15 +237,19 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 
+<!-- PROJECT 09 : PYTHON HEART ANIMATION -->
+
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/python-heart-animation/">
 <img src="./assets/project-python-heart.svg" width="100%" alt="Python Heart Animation project card"/>
 </a>
 </td>
 
+<!-- PROJECT 10 : FINTRACK PERSONAL FINANCE -->
+
 <td width="50%" align="center">
-<a href="https://github.com/Sehgal1001">
-<img src="./assets/project-fintrack.svg" width="100%" alt="FinTrack Personal Finance Tracker project card"/>
+<a href="https://github.com/Sehgal1001?tab=repositories">
+<img src="./assets/project-fintrack.svg" width="100%" alt="FinTrack Personal Finance project card"/>
 </a>
 </td>
 
@@ -241,11 +257,15 @@ I like working across the frontend and backend — from shaping a clean interfac
 
 <tr>
 
+<!-- PROJECT 11 : ERP SCHOOL MANAGEMENT -->
+
 <td width="50%" align="center">
-<a href="https://github.com/Sehgal1001">
-<img src="./assets/project-edusphere.svg" width="100%" alt="School ERP Management System project card"/>
+<a href="https://github.com/Sehgal1001?tab=repositories">
+<img src="./assets/project-edusphere.svg" width="100%" alt="School ERP Management project card"/>
 </a>
 </td>
+
+<!-- PROJECT 12 : CRYSTALIZED BALL INTERACTIVE PARTICLE SPHERE -->
 
 <td width="50%" align="center">
 <a href="https://sehgal1001.github.io/Crystalized-Ball-Interactive-Particle-Sphere/">
@@ -264,7 +284,6 @@ I like working across the frontend and backend — from shaping a clean interfac
 </a>
 
 <br/><br/>
-
 <b>✦ PLAN · BUILD · TEST · IMPROVE ✦</b>
 
 </div>
@@ -286,138 +305,27 @@ I like working across the frontend and backend — from shaping a clean interfac
 </a>
 
 <a href="https://github.com/Sehgal1001">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehgal1001&layout=compact&hide_border=true&bg_color=0D1425&title_color=00E5FF&text_color=FFFFFF" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
 <img
-height="180"
-src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF"
-alt="GitHub contribution streak"/>
+  width="72%"
+  src="https://streak-stats.demolab.com?user=Sehgal1001&theme=dark&hide_border=true&background=0D1425&ring=00E5FF&fire=9B75FF&currStreakLabel=00E5FF"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
 <h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
 <img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"
-alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Sehgal1001/Sehgal1001/output/github-contribution-grid-snake-dark.svg"
-width="100%"
-alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-<!-- ================= DEVELOPER TERMINAL ================= -->
-
-<h2 align="center">⌨️ DEVELOPER TERMINAL</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00D6A0?style=for-the-badge&labelColor=10172B"/>
-<img src="https://img.shields.io/badge/USER-ANIKET-9B75FF?style=for-the-badge&labelColor=10172B"/>
-
-</div>
-
-```bash
-╭────────────────────────────────────────────╮
-│             ANIKET'S TERMINAL            │
-╰────────────────────────────────────────────╯
-
-$ whoami
-> Aniket Sahgal
-
-$ role
-> Full Stack Developer | CSE Student
-
-$ frontend
-> HTML | CSS | JavaScript | React
-
-$ backend
-> Node.js | Express.js
-
-$ databases
-> MongoDB | MySQL
-
-$ toolkit
-> Git | GitHub | VS Code | Postman
-
-$ current_focus
-> Learning, building and improving.
-
-$ philosophy
-> Write clean code. Solve real problems.
-```
-
----
-
-<!-- ================= CONNECT ================= -->
-
-<h2 align="center">🤝 LET'S CONNECT</h2>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:00E5FF&height=3" width="55%"/>
-
-<h3>Have an idea or want to build something together?</h3>
-
-<p>
-I'm happy to connect with fellow developers, exchange ideas,
-learn from others, and collaborate on meaningful projects.
-</p>
-
-<br/>
-
-<a href="https://github.com/Sehgal1001">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aniket-sahgal-297a67276">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<b>✦ CONNECT · COLLABORATE · GROW ✦</b>
-
-</div>
-
----
-
-<!-- ================= FOOTER ================= -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,30:171044,70:075985,100:070B18&height=155&section=footer&animation=twinkling"/>
-
-<h3>BUILD. CREATE. INNOVATE.</h3>
-
-<b>Thanks for visiting my GitHub profile! 💜</b>
-
-<br/>
-
-<sub>Designed and crafted by Aniket Sahgal.</sub>
-
-</div>
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sehgal1001&bg_color=0D1425&color=00E5FF&line=9B75FF&point=FFFFFF&area=true&hide_border=true&custom_title=My
